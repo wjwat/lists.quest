@@ -1,0 +1,32 @@
+{% import "macros/breadcrumb.html" as breadcrumb %}
+{% import "macros/toc.html" as toc %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>{% block title %}{{ config.title }}{% endblock title %}</title>
+  <link rel="stylesheet" href="{{ get_url(path="site.css") }}"/>
+  <link rel="icon" href="{{ get_url(path="favicon.png") }}"/>
+</head>
+<body>
+  <header>
+  </header>
+  <main>
+    {# {% if current_path != "/" %} #}
+      {{ breadcrumb::breadcrumb() }}
+    {# {% endif %} #}
+    <section class="section">
+      <div class="container">
+        {% block content %}{% endblock %}
+      </div>
+    </section>
+    <hr>
+    {{ toc::toc() }}
+  </main>
+  <footer>
+    {# <pre><code>
+      {{ __tera_context }}
+    </code></pre> #}
+  </footer>
+</body>
+</html>

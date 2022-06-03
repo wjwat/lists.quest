@@ -1,0 +1,19 @@
+{% macro toc() %}
+{% set section = get_section(path="_index.md") %}
+<ul>
+{% for p in section.subsections %}
+  {% set subsection = get_section(path=p) %}
+  {% if subsection.extra.hidden %}{% continue %}{% endif %}
+  <li>
+    <a href="{{subsection.permalink}}">{{ subsection.title }}</a>
+    <ul>
+      {% for page in subsection.pages %}
+        <li class="{% if current_path == page.path %}active{% endif %}">
+          <a href="{{page.permalink}}">{{page.slug}} | {{page.title}}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  </li>
+{% endfor %}
+</ul>
+{% endmacro toc %}
