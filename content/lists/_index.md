@@ -1,8 +1,5 @@
 +++
-title = "Lists"
-updated = 2022-06-02T20:57:33Z
+title = "lists"
+[extra]
+updated = 2022-06-03T14:28:04Z
 +++
-
-Something something lists.
-
-Something something else lists.

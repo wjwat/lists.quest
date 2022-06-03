@@ -1,6 +1,7 @@
 +++
 title = "Most hated Brogue enemies"
-updated = 2022-06-02T20:57:48Z
+[extra]
+updated = 2022-06-03T13:51:06Z
 +++
 
 One day I'll beat this goddamn game.

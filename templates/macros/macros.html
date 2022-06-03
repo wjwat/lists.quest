@@ -1,0 +1,64 @@
+{#
+  As of right now this ToC won't work for any pages at the top level of the
+  content section. Should I a) rework it to display those pages or b) just
+  hard code them somewhere because most top level pages would be something like
+  about me, contact, etc.
+#}
+
+{% macro toc() %}
+
+{# Guard for our 404 page #}
+{% if not current_path %}
+ {% set current_path = "" %}
+{% endif %}
+
+{% set section = get_section(path="_index.md") %}
+<ul>
+{% for p in section.subsections %}
+  {% set subsection = get_section(path=p) %}
+  {% if subsection.extra.hidden %}{% continue %}{% endif %}
+  <li>
+    <a href="{{subsection.permalink}}">{{ subsection.title }}</a>
+    <ul>
+      {% for page in subsection.pages %}
+        <li class="{% if current_path == page.path %}active{% endif %}">
+          <a href="{{page.permalink}}">{{page.slug}}{# | {{page.title}}#}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  </li>
+{% endfor %}
+</ul>
+{% endmacro toc %}
+
+{# ########################################################################## #}
+
+{% macro breadcrumb() %}
+<p><a href="/">lists.quest</a>
+  {% set paths = [] %}
+  {% if section.components %}
+    {% set_global paths = section.components %}
+  {% elif page.components %}
+    {% set_global paths = page.components %}
+  {% endif %}
+
+  {% set p = "/" %}
+  {% for component in paths %}
+    <span> / <a href="{{ p ~ component ~ '/' }}">{{ component }}</a></span>
+    {% set_global p = p ~ component ~ '/' %}
+  {% endfor %}
+</p>
+{% endmacro breadcrumb %}
+
+{# ########################################################################## #}
+
+{% macro updated() %}
+{% if page.extra.updated %}
+  {% set last_update = page.extra.updated %}
+{% elif section.extra.updated %}
+  {% set last_update = section.extra.updated %}
+{% endif %}
+{% if last_update %}
+  <p class="update">Last Updated: {{ last_update }}</p>
+{% endif %}
+{% endmacro updated %}

@@ -1,5 +1,5 @@
-{% import "macros/breadcrumb.html" as breadcrumb %}
-{% import "macros/toc.html" as toc %}
+{% import "macros/macros.html" as macros %}
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,24 +9,23 @@
   <link rel="icon" href="{{ get_url(path="favicon.png") }}"/>
 </head>
 <body>
-  <header>
-  </header>
   <main>
-    {# {% if current_path != "/" %} #}
-      {{ breadcrumb::breadcrumb() }}
-    {# {% endif %} #}
+    {# <pre><code>
+      {{ __tera_context }}
+    </code></pre> #}
+    {{ macros::breadcrumb() }}
+    <hr>
     <section class="section">
       <div class="container">
         {% block content %}{% endblock %}
       </div>
     </section>
+    {{ macros::updated() }}
     <hr>
-    {{ toc::toc() }}
+    {{ macros::toc() }}
   </main>
   <footer>
-    {# <pre><code>
-      {{ __tera_context }}
-    </code></pre> #}
+    <p class="lil-guy">(∩ᄑ_ᄑ)</p>
   </footer>
 </body>
 </html>
