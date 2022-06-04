@@ -31,6 +31,14 @@ main {
   flex: 1 0 auto;
 }
 
+ol {
+  li {
+    &::marker {
+      font-weight: bold;
+    }
+  }
+}
+
 ul {
   margin-top: 0;
 }

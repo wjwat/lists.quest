@@ -6,12 +6,10 @@
 #}
 
 {% macro toc() %}
-
 {# Guard for our 404 page #}
 {% if not current_path %}
  {% set current_path = "" %}
 {% endif %}
-
 {% set section = get_section(path="_index.md") %}
 <ul>
 {% for p in section.subsections %}
