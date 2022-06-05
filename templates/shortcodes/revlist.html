@@ -1,0 +1,5 @@
+<ol reversed>
+{% for line in body | split(pat="\n") %}
+<li>{{ line }}
+{% endfor %}
+</ol>
