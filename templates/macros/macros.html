@@ -6,28 +6,36 @@
 #}
 
 {% macro toc() %}
-{# Guard for our 404 page #}
-{% if not current_path %}
- {% set current_path = "" %}
-{% endif %}
-{% set section = get_section(path="_index.md") %}
-<ul>
-{% for p in section.subsections %}
+  {% set section = get_section(path="_index.md") %}
+  <ul class="toc">
+    <li class="section site"> <a href="/">lists.quest</a></li>
+    <ul class="toc">
+    {% for p in section.subsections %}
+      {{ macros::toc_stub(p=p) }}
+    {% endfor %}
+    </ul>
+  </ul>
+{% endmacro toc %}
+
+{% macro toc_stub(p) %}
+  {# Guard for our 404 page #}
+  {% if not current_path %}
+    {% set current_path = "" %}
+  {% endif %}
   {% set subsection = get_section(path=p) %}
-  {% if subsection.extra.hidden %}{% continue %}{% endif %}
-  <li>
-    <a href="{{subsection.permalink}}">{{ subsection.title }}</a>
-    <ul>
+  <li class="section"> <a href="{{subsection.permalink}}">{{ subsection.title }}</a>
+    <ul class="toc">
+      {% for _s in subsection.subsections %}
+        {{ macros::toc_stub(p=_s) }}
+      {% endfor %}
       {% for page in subsection.pages %}
-        <li class="{% if current_path == page.path %}active{% endif %}">
+        <li class="page{% if current_path == page.path %} active{% endif %}">
           <a href="{{page.permalink}}">{{page.slug}}{# | {{page.title}}#}</a>
         </li>
       {% endfor %}
     </ul>
   </li>
-{% endfor %}
-</ul>
-{% endmacro toc %}
+{% endmacro toc_stub %}
 
 {# ########################################################################## #}
 
@@ -60,3 +68,37 @@
   <p class="update">Last Updated: {{ last_update }}</p>
 {% endif %}
 {% endmacro updated %}
+
+{# ########################################################################## #}
+
+{# Change this to use details/summary instead of lists. #}
+
+{% macro toc2() %}
+  {% set section = get_section(path="_index.md") %}
+  <ul class="toc">
+  {% for p in section.subsections %}
+    {{ macros::toc_stub(p=p) }}
+  {% endfor %}
+  </ul>
+{% endmacro toc %}
+
+{% macro toc2_stub(p) %}
+  {# Guard for our 404 page #}
+  {% if not current_path %}
+    {% set current_path = "" %}
+  {% endif %}
+  {% set subsection = get_section(path=p) %}
+  <li class="section">
+    <a href="{{subsection.permalink}}">{{ subsection.title }}</a>
+    <ul class="toc">
+      {% for _s in subsection.subsections %}
+        {{ macros::toc2_stub(p=_s) }}
+      {% endfor %}
+      {% for page in subsection.pages %}
+        <li class="page{% if current_path == page.path %} active{% endif %}">
+          <a href="{{page.permalink}}">{{page.slug}}{# | {{page.title}}#}</a>
+        </li>
+      {% endfor %}
+    </ul>
+  </li>
+{% endmacro toc_stub %}

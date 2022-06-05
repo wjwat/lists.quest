@@ -31,11 +31,37 @@ main {
   flex: 1 0 auto;
 }
 
-ol {
-  li {
-    &::marker {
+// ol {
+//   li {
+//     &::marker {
+//       font-weight: bold;
+//     }
+//   }
+// }
+
+.toc {
+  padding-left: 25px;
+  list-style: none;
+
+  .section {
+    font-weight: 600;
+    &::before {
+      font-family: monospace, monospace;
       font-weight: bold;
+      content: "+ ";
     }
+  }
+  .page {
+    font-weight: normal;
+    &::before {
+      font-family: monospace, monospace;
+      font-weight: bold;
+      content: "- ";
+    }
+  }
+  .site {
+    text-transform: uppercase;
+    font-weight: bold;
   }
 }
 

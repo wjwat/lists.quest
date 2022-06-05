@@ -1,7 +1,7 @@
 +++
 title = "20 Best Metalcore Albums of 2021"
 [extra]
-updated = 2022-06-03T18:47:34Z
+updated = 2022-06-04T15:59:08Z
 +++
 
 1. Every Time I Die - "Radical" (Epitaph, USA)
@@ -27,4 +27,4 @@ updated = 2022-06-03T18:47:34Z
 
 ---
 
-Source: https://www.invisibleoranges.com/best-of-2021-metalcore/
+Source: <https://www.invisibleoranges.com/best-of-2021-metalcore/>

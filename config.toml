@@ -12,7 +12,7 @@ taxonomies = [
   { name = "tags", feed = true },
 ]
 
-# minify_html = true
+minify_html = true
 
 [markdown]
 # Whether to do syntax highlighting
