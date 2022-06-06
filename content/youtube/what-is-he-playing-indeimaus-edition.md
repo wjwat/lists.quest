@@ -1,7 +1,7 @@
 +++
 title = "What Is Indeimaus Playing?"
 [extra]
-updated = 2022-06-05T20:23:44Z
+updated = 2022-06-06T09:03:33Z
 +++
 
 - [This New Survival Horror Is Uhh...](https://www.youtube.com/watch?v=6jHCqYDVzy8)
@@ -219,24 +219,47 @@ updated = 2022-06-05T20:23:44Z
 - [Top 5 Dark Souls 2 Bosses](https://www.youtube.com/watch?v=1PXPclyFlEg)
 - [These Are Awful](https://www.youtube.com/watch?v=Xw2Sg6jXSpk)
 - [FIVE NIGHTS Movie Trailer](https://www.youtube.com/watch?v=qRyO7aWXLuc)
-- [Top 5 Scariest Enemies In Video Games](https://www.youtube.com/watch?v=iTu6MpBOOg4)
-- [5 Saddest Deaths In Video Games](https://www.youtube.com/watch?v=Zi7eJpbVmsA)
-- [5 Extreme Jump Scare Games](https://www.youtube.com/watch?v=_iwBQaLFiDA)
-- [5 Scariest Games Of All Time](https://www.youtube.com/watch?v=MVp3Yaxg6jU)
-- [If Outlast Was Real](https://www.youtube.com/watch?v=b-mQAfxbWWc)
-- [Poseidon Vs Neptune ♪](https://www.youtube.com/watch?v=Eq-tBpOyiB4)
-- [If Five Nights At Freddy's Was Real (Animation)](https://www.youtube.com/watch?v=idO-yodFByw)
-- [Rapture ♪  (Song)](https://www.youtube.com/watch?v=e4BTpxIljNE)
-- [Grim Fandango](https://www.youtube.com/watch?v=51plm0iP_Xk)
-- [Top 5 Dark Souls Bosses](https://www.youtube.com/watch?v=P2dTKjohGNg)
-- [Top 10 Dark Souls Enemies](https://www.youtube.com/watch?v=rUaXVdQO15I)
-- [Spelunky - How To Unlock The HUTT!](https://www.youtube.com/watch?v=EXHUArMvUow)
-- [Spelunky - The Gaping Dragon IS REAL!](https://www.youtube.com/watch?v=v83fwozz_Bo)
-- [Spelunky - What Is The Gaping Dragon?](https://www.youtube.com/watch?v=DJEuBE5Xvwg)
-- [Didney Lan](https://www.youtube.com/watch?v=7eYFwI0v-t4)
-- [Spelunky - Best Tips & Tricks!](https://www.youtube.com/watch?v=rbdTjVqW6rQ)
-- [What Dark Souls Has Done To Me...](https://www.youtube.com/watch?v=FwfOerdlMzI)
-- [Spelunky - How To Get To HELL!](https://www.youtube.com/watch?v=KI8gRkHxzts)
+
+
+* Dark Souls
+    - [Top 5 Dark Souls Bosses](https://www.youtube.com/watch?v=P2dTKjohGNg)
+    - [Top 10 Dark Souls Enemies](https://www.youtube.com/watch?v=rUaXVdQO15I)
+    - [What Dark Souls Has Done To Me...](https://www.youtube.com/watch?v=FwfOerdlMzI)
+* Grim Fandango
+    - [Grim Fandango](https://www.youtube.com/watch?v=51plm0iP_Xk)
+* Spelunky
+    - [Spelunky - How To Unlock The HUTT!](https://www.youtube.com/watch?v=EXHUArMvUow)
+    - [Spelunky - The Gaping Dragon IS REAL!](https://www.youtube.com/watch?v=v83fwozz_Bo)
+    - [Spelunky - What Is The Gaping Dragon?](https://www.youtube.com/watch?v=DJEuBE5Xvwg)
+    - [Didney Lan](https://www.youtube.com/watch?v=7eYFwI0v-t4)
+    - [Spelunky - Best Tips & Tricks!](https://www.youtube.com/watch?v=rbdTjVqW6rQ)
+    - [Spelunky - How To Get To HELL!](https://www.youtube.com/watch?v=KI8gRkHxzts)
+* *Misc*
+    - *Animation*
+        - [If Outlast Was Real](https://www.youtube.com/watch?v=b-mQAfxbWWc)
+        - [If Five Nights At Freddy's Was Real (Animation)](https://www.youtube.com/watch?v=idO-yodFByw)
+    - *Music*
+        - [Poseidon Vs Neptune ♪](https://www.youtube.com/watch?v=Eq-tBpOyiB4)
+        - [Rapture ♪  (Song)](https://www.youtube.com/watch?v=e4BTpxIljNE)
+    - *Top Lists*
+        - [Top 5 Scariest Enemies In Video Games](https://www.youtube.com/watch?v=iTu6MpBOOg4)
+        - [5 Saddest Deaths In Video Games](https://www.youtube.com/watch?v=Zi7eJpbVmsA)
+        - [5 Extreme Jump Scare Games](https://www.youtube.com/watch?v=_iwBQaLFiDA)
+            {% revlist() %}
+            Fatal Frame
+            SCP: Containment Breach
+            Slender: The Eight Pages
+            That Damn Maze Flash Game
+            Five Nights At Freddy's (1 or 2)
+            {% end %}
+        - [5 Scariest Games Of All Time](https://www.youtube.com/watch?v=MVp3Yaxg6jU)
+            {% revlist() %}
+            Silent Hill
+            Call of Cthulhu: Dark Corners of the Earth
+            Condemned: Criminal Origins
+            Outlast
+            Amnesia The Dark Descent
+            {% end %}
 
 ---
 

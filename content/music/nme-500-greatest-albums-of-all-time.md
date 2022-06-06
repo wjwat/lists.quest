@@ -1,7 +1,7 @@
 +++
 title = "NME 500 Greatest Albums of All Time"
 [extra]
-updated = 2022-06-05T13:14:51Z
+updated = 2022-06-06T09:16:28Z
 +++
 
 {% revlist() %}
@@ -298,6 +298,7 @@ Grace Jones, ‘Nightclubbing’
 The Magnetic Fields, ’69 Love Songs’
 Kate Bush, ‘The Kick Inside’
 Chic, ‘Risqué’
+Janis Joplin, ‘Pearl’
 Pavement, ‘Slanted And Enchanted’
 NWA, ‘Straight Outta Compton’
 Michael Jackson, ‘Bad’
