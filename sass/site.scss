@@ -80,6 +80,10 @@ pre {
   }
   .page {
     font-weight: normal;
+
+    &.active::before {
+      content: "> ";
+    }
     &::before {
       font-family: monospace, monospace;
       font-weight: bold;
