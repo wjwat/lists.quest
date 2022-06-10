@@ -10,6 +10,10 @@ $lil-guy-hover: #3D9970;
   box-sizing: border-box;
 }
 
+html {
+  overflow-y: scroll;
+}
+
 html, body {
   height: 100%;
 }
@@ -66,28 +70,41 @@ pre {
   }
 }
 
+details {
+  & > summary::before {
+    content: "+";
+    font-family: monospace, monospace;
+    font-weight: bold;
+  }
+
+  &[open] > summary::before {
+    content: "-";
+  }
+}
+
 .toc {
   padding-left: 25px;
-  list-style: none;
+  margin-bottom: 0px;
 
   .section {
     font-weight: 600;
+    list-style: none;
     &::before {
       font-family: monospace, monospace;
       font-weight: bold;
-      content: "+ ";
     }
   }
   .page {
+    padding-left: 25px;
     font-weight: normal;
 
-    &.active::before {
-      content: "> ";
-    }
     &::before {
       font-family: monospace, monospace;
       font-weight: bold;
-      content: "- ";
+      content: "*"
+    }
+    &.active::before {
+      content: ">";
     }
   }
   .site {
