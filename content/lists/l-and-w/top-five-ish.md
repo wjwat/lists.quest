@@ -1,7 +1,7 @@
 +++
 title = "Top Five(-ish)"
 [extra]
-updated = 2022-06-07T20:58:26Z
+updated = 2022-06-09T21:03:26Z
 +++
 
 ## Tom Hanks Movies
@@ -44,4 +44,12 @@ updated = 2022-06-07T20:58:26Z
 ## Favorite Musicals
 
 - W
+  * South Park: Bigger, Longer & Uncut
+  * Thoroughly Modern Millie
+  * Hello, Dolly!
 - L
+  * Funny Girl
+  * Hello, Dolly!
+  * South Pacific
+  * Singing in the Rain
+  * Fiddler on the Roof
