@@ -75,6 +75,7 @@ details {
     content: "+";
     font-family: monospace, monospace;
     font-weight: bold;
+    padding-right: 5px;
   }
 
   &[open] > summary::before {
