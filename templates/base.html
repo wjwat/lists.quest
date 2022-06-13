@@ -4,9 +4,10 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{% block title %}{{ config.title }}{% endblock title %}</title>
-  <link rel="stylesheet" href="{{ get_url(path="site.css") }}"/>
-  <link rel="icon" href="{{ get_url(path="favicon.png") }}"/>
+  <link rel="preload" href="{{ get_url(path="site.css") }}" as="style">
+  <link rel="icon" href="{{ get_url(path="favicon.png") }}">
 </head>
 <body>
   <main>
