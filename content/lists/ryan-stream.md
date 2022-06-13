@@ -1,7 +1,7 @@
 +++
 title = "Titles I've Watched Ryan Play"
 [extra]
-updated = 2022-06-03T13:57:46Z
+updated = 2022-06-12T17:43:10Z
 +++
 
 - Race With Ryan
@@ -12,3 +12,6 @@ updated = 2022-06-03T13:57:46Z
   * You're also supposed to flash the camera in that person's face.
 - Overwatch (???)
 - Borderlands something-or-other
+- A game about destroying apples with rocks
+- Defender's Quest
+  * Hell yeah, brother.
