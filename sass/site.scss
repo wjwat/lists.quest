@@ -107,6 +107,9 @@ details {
     &.active::before {
       content: ">";
     }
+    &.active {
+      font-style: italic;
+    }
   }
   .site {
     text-transform: uppercase;
