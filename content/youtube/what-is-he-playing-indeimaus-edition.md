@@ -1,7 +1,7 @@
 +++
 title = "What Is Indeimaus Playing?"
 [extra]
-updated = 2022-06-06T09:03:33Z
+updated = 2022-06-14T06:18:09Z
 +++
 
 - [This New Survival Horror Is Uhh...](https://www.youtube.com/watch?v=6jHCqYDVzy8)
@@ -215,16 +215,14 @@ updated = 2022-06-06T09:03:33Z
 - [Jump Scares You NEVER Expected In Games](https://www.youtube.com/watch?v=NA-95DOsu_k)
 - [Top 10 Dark Souls 2 Enemies](https://www.youtube.com/watch?v=bSHmpRPeGE4)
 - [Five Nights At Freddy's 4 Trailer (April Fools 2015)](https://www.youtube.com/watch?v=dHnBXBQ9jiA)
-- [My Top 6 Final Fantasy Summons](https://www.youtube.com/watch?v=lKwRn5I7baY)
-- [Top 5 Dark Souls 2 Bosses](https://www.youtube.com/watch?v=1PXPclyFlEg)
-- [These Are Awful](https://www.youtube.com/watch?v=Xw2Sg6jXSpk)
-- [FIVE NIGHTS Movie Trailer](https://www.youtube.com/watch?v=qRyO7aWXLuc)
 
 
 * Dark Souls
     - [Top 5 Dark Souls Bosses](https://www.youtube.com/watch?v=P2dTKjohGNg)
     - [Top 10 Dark Souls Enemies](https://www.youtube.com/watch?v=rUaXVdQO15I)
     - [What Dark Souls Has Done To Me...](https://www.youtube.com/watch?v=FwfOerdlMzI)
+* Five Nights at Freddy's
+    - [FIVE NIGHTS Movie Trailer](https://www.youtube.com/watch?v=qRyO7aWXLuc)
 * Grim Fandango
     - [Grim Fandango](https://www.youtube.com/watch?v=51plm0iP_Xk)
 * Spelunky
@@ -242,6 +240,30 @@ updated = 2022-06-06T09:03:33Z
         - [Poseidon Vs Neptune ♪](https://www.youtube.com/watch?v=Eq-tBpOyiB4)
         - [Rapture ♪  (Song)](https://www.youtube.com/watch?v=e4BTpxIljNE)
     - *Top Lists*
+        - [My Top 6 Final Fantasy Summons](https://www.youtube.com/watch?v=lKwRn5I7baY)
+            {% revlist() %}
+            Shiva
+            Ifrit
+            Knights of the Round
+            Odin
+            Doomtrain
+            Bahamut
+            {% end %}
+        - [Top 5 Dark Souls 2 Bosses](https://www.youtube.com/watch?v=1PXPclyFlEg)
+            - *Honorable Mention*: Covetous Demon
+            {% revlist() %}
+            Executioners Chariot
+            The Lost Sinner
+            Sinh, The Slumbering Dragon
+            Demon of Song
+            Darklurker
+            {% end %}
+        - [These Are Awful](https://www.youtube.com/watch?v=Xw2Sg6jXSpk) (FNAF Fan Games)
+            - 7 Full Day's At Luigi's
+            - Five Nights In The Past
+            - Nights at Maker Studios
+            - Nights At Wario's 2
+            - 5 Nights at Krusty Krabs
         - [Top 5 Scariest Enemies In Video Games](https://www.youtube.com/watch?v=iTu6MpBOOg4)
         - [5 Saddest Deaths In Video Games](https://www.youtube.com/watch?v=Zi7eJpbVmsA)
         - [5 Extreme Jump Scare Games](https://www.youtube.com/watch?v=_iwBQaLFiDA)
