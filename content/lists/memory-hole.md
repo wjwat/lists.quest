@@ -1,7 +1,7 @@
 +++
 title = "Forgotten-ish"
 [extra]
-updated = 2022-06-18T13:03:33Z
+updated = 2022-06-19T22:01:08Z
 +++
 
 ## TV Shows
@@ -15,3 +15,12 @@ updated = 2022-06-18T13:03:33Z
   * The reveal was searching for Wizards & Warriors and finding a mention of the
     show in it's wiki page. No idea how that came to me, but it probably was
     from the last time I tried to find it.
+
+## Movies
+
+- Lord of Illusions (1995)
+- Black Magic (1992)
+
+## Games
+
+- Shadowgate (1989)
