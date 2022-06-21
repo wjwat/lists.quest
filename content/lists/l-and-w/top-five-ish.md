@@ -53,3 +53,20 @@ updated = 2022-06-09T21:03:26Z
   * South Pacific
   * Singing in the Rain
   * Fiddler on the Roof
+
+  ## Favorite Sandwiches
+
+- L
+  * Roast beef, with caramelized onions with goat cheese & fig spread.
+    - Something about getting french bread or something, I have no idea.
+    - Something about evoking. I think she may be a witch.
+  * Portabella sandwich they had at Tucci's.
+    - They took it off the menu.
+  * Patty melt.
+  * Meatball sub (all of them)
+- W
+  * Paseo
+  * That turkey sandwich from that spot on RR 12 as you're heading out of Wimberley. (Idlewild was the name of the restaurant.)
+  * That pork loin and cream cheese one from whole foods. The sandwich itself was okay, but I have fond memories of going there at the time.
+
+**Honorable mention:** Katz's
