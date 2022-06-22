@@ -1,7 +1,7 @@
 +++
 title = "Forgotten-ish"
 [extra]
-updated = 2022-06-19T22:01:08Z
+updated = 2022-06-21T21:20:22Z
 +++
 
 ## TV Shows
@@ -20,6 +20,8 @@ updated = 2022-06-19T22:01:08Z
 
 - Lord of Illusions (1995)
 - Black Magic (1992)
+- Dadetown (1995)
+- Wonderland (1997)
 
 ## Games
 
