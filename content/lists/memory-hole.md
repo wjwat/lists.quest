@@ -1,7 +1,7 @@
 +++
 title = "Forgotten-ish"
 [extra]
-updated = 2022-06-21T21:20:22Z
+updated = 2022-06-23T22:29:02Z
 +++
 
 ## TV Shows
@@ -22,7 +22,14 @@ updated = 2022-06-21T21:20:22Z
 - Black Magic (1992)
 - Dadetown (1995)
 - Wonderland (1997)
+- Trans (1998)
+- The Flight of Dragons (1982)
+- The Phantom Tollbooth (1970)
 
 ## Games
 
 - Shadowgate (1989)
+
+## Music
+
+- Kings of Convenience - Riot on an Empty Street
