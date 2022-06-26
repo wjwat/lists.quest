@@ -5,37 +5,6 @@
   about me, contact, etc.
 #}
 
-{# {% macro toc() %}
-  {% set section = get_section(path="_index.md") %}
-  <ul class="toc">
-    <li class="section site"> <a href="/">lists.quest</a></li>
-    <ul class="toc">
-    {% for p in section.subsections %}
-      {{ macros::toc_stub(p=p) }}
-    {% endfor %}
-    </ul>
-  </ul>
-{% endmacro toc %}
-
-{% macro toc_stub(p) %}
-  {% if not current_path %}
-    {% set current_path = "" %}
-  {% endif %}
-  {% set subsection = get_section(path=p) %}
-  <li class="section"> <a href="{{subsection.permalink}}">{{ subsection.title }}</a>
-    <ul class="toc">
-      {% for _s in subsection.subsections %}
-        {{ macros::toc_stub(p=_s) }}
-      {% endfor %}
-      {% for page in subsection.pages %}
-        <li class="page{% if current_path == page.path %} active{% endif %}">
-          <a href="{{page.permalink}}">{{page.slug}}</a>
-        </li>
-      {% endfor %}
-    </ul>
-  </li>
-{% endmacro toc_stub %} #}
-
 {% macro toc() %}
   {% set section = get_section(path="_index.md") %}
   <details class="toc" open>

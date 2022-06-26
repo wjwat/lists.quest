@@ -1,15 +1,15 @@
 +++
 title = "Passion of the Weiss's Best Albums of 2021"
 [extra]
-updated = 2022-06-11T15:48:58Z
+updated = 2022-06-25T00:30:34Z
 +++
 
 {% revlist() %}
-EST Gee - Bigger Than Life Or Death
-Bris - Tricky Dance Moves
-Pearl & The Oysters - Flowerland
-Enumclaw - Jimbo Demo
-Injury Reserve - By the Time I Get to Phoenix
+<strike>EST Gee - Bigger Than Life Or Death</strike>
+<strike>Bris - Tricky Dance Moves</strike>
+<strike>Pearl & The Oysters - Flowerland</strike>
+<strike>Enumclaw - Jimbo Demo</strike>
+<strike>Injury Reserve - By the Time I Get to Phoenix</strike>
 Blockhead - Space Werewolves Will Be The End Of Us All
 Dawn Richard - Second Line
 Cleo Sol - Mother
@@ -62,6 +62,7 @@ Floating Points, Pharoah Sanders & The London Symphony Orchestra - Promises
 ## Sources
 
 <https://www.passionweiss.com/2021/12/30/the-pow-best-albums-of-2021/>
+
 Ripped from: <https://www.albumoftheyear.org/list/1876-passion-of-the-weisss-best-albums-of-2021/>
 
 ## Code
