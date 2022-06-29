@@ -1,8 +1,9 @@
 +++
 title = "Things I've Had For Dinner"
 [extra]
-updated = 2022-06-23T22:15:26Z
+updated = 2022-06-28T20:30:26Z
 +++
 
-- Pizza
+- Pizza (x2)
 - Huevos Rancheros
+- Baked Potato
