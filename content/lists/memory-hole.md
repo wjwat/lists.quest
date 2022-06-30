@@ -1,7 +1,7 @@
 +++
 title = "Forgotten-ish"
 [extra]
-updated = 2022-06-25T12:31:50Z
+updated = 2022-06-30T18:37:35Z
 +++
 
 ## TV Shows
@@ -15,6 +15,7 @@ updated = 2022-06-25T12:31:50Z
   * The reveal was searching for Wizards & Warriors and finding a mention of the
     show in it's wiki page. No idea how that came to me, but it probably was
     from the last time I tried to find it.
+- Liquid Television
 
 ## Movies
 
