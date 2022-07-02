@@ -1,7 +1,7 @@
 +++
 title = "Forgotten-ish"
 [extra]
-updated = 2022-06-30T18:37:35Z
+updated = 2022-07-01T21:10:36Z
 +++
 
 ## TV Shows
@@ -16,6 +16,7 @@ updated = 2022-06-30T18:37:35Z
     show in it's wiki page. No idea how that came to me, but it probably was
     from the last time I tried to find it.
 - Liquid Television
+- The Elephant Show
 
 ## Movies
 
