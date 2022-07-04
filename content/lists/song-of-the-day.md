@@ -1,7 +1,7 @@
 +++
 title = "song of the day"
 [extra]
-updated = 2022-07-02T20:19:41Z
+updated = 2022-07-03T19:55:08Z
 +++
 
 - **2022/06/17**: [Talk Talk - It's My Life (Live at Montreux 1986)](https://www.youtube.com/watch?v=Rbwz532EQw8)
@@ -15,3 +15,4 @@ updated = 2022-07-02T20:19:41Z
 - **2022/06/30**: [Mobb Deep - Shook Ones, Pt. II](https://www.youtube.com/watch?v=yoYZf-lBF_U)
 - **2022/07/01**: [Napalm Death - You Suffer](https://www.youtube.com/watch?v=ybGOT4d2Hs8)
 - **2022/07/02**: [Tancred - Sell My Head](https://www.youtube.com/watch?v=MBfwhQoyg7s)
+- **2022-07-03**: [Mainline Magic Orchestra](https://www.youtube.com/watch?v=1hT2WjhKJz4)
