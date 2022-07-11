@@ -1,7 +1,7 @@
 +++
 title = "song of the day"
 [extra]
-updated = 2022-07-06T21:12:30Z
+updated = 2022-07-07T17:54:24Z
 +++
 
 - **2022/06/17**: [Talk Talk - It's My Life (Live at Montreux 1986)](https://www.youtube.com/watch?v=Rbwz532EQw8)
@@ -19,3 +19,4 @@ updated = 2022-07-06T21:12:30Z
 - **2022-07-04**: [Thou - Fourth of July](https://www.youtube.com/watch?v=o6eBy9o-x4A)
 - **2022-07-05**: [Metallica - And Justice For All](https://www.youtube.com/watch?v=_fKAsvJrFes)
 - **2022-07-06**: [Zebra Katz x Herve - Tear The House Up](https://www.youtube.com/watch?v=m5By5X6sl_U)
+- **2022-07-07**: [Viagra Boys - Sports](https://www.youtube.com/watch?v=QjL7D33xpS4)
