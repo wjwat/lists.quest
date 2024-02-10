@@ -1,0 +1,6 @@
+{% set response = load_data(path="data/shreddit_log.csv") %}
+<ul>
+{% for z in response.records %}
+<li><input{% if z[2] == "True" %} checked=""{% endif %} disabled="" type="checkbox"> <a href="{{z[1]}}">{{z[0]}}</a><br></li>
+{% endfor %}
+</ul>

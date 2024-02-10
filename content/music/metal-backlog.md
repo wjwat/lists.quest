@@ -1,0 +1,389 @@
++++
+title = "Metal Backlog"
+[extra]
+updated = 2023-09-20T12:00:00Z
++++
+
+- [ ] Abatuar - Los Efectos de la Gangrena y Putrefacción (Black/Death, Panama, 2017) <https://youtu.be/Dbmah4oxCc0>
+- [ ] Abhorrence - Intro / Pestilential Mists <https://youtu.be/ROX7SWUEY0M>
+- [ ] Abigor - Scars in the Landscape of God <https://youtu.be/wvT1cijoWGw>
+- [ ] Aborted - Cadaverous Banquet <https://youtu.be/elj_c5A-iYI>
+- [ ] Abscession - Rat King Crawl <https://youtu.be/EnisaEHV8Y4>
+- [ ] Absu - Disembodied <https://youtu.be/ulN8DYbZ6mQ>
+- [ ] Abyssal - Telomeric Erosion [2015, UK, FFO Tchornobog, Imperial Triumphant] <https://abyssal-home.bandcamp.com/track/telomeric-erosion-2>
+- [ ] Acid Magus - Dead Weight ft. Johni Holiday (Stoner Doom/Sludge, South Africa, 2023) <https://acidmagus.bandcamp.com/track/dead-weight-ft-johni-holiday>
+- [ ] Afterbirth - Tightening the Screws <https://youtu.be/7r4TWNl8L-s>
+- [ ] Agriculture - Look, Pt. 1 [US, 2023 | FFO: Panopticon, Deafheaven] <https://agriculturemusic.bandcamp.com/track/look-pt-1>
+- [ ] Alchemy of Flesh - Meteor Hammer (2023) <https://alchemyofflesh.bandcamp.com/track/meteor-hammer>
+- [ ] Alkaloid - The Cambrian Explosion <https://www.youtube.com/watch?v=8JVfMiwzgJo>
+- [ ] Anal Vomit - Seed of Evil <https://www.youtube.com/watch?v=OvPZlOVl0LI>
+- [ ] Ancient Existence - Night Eternal [Death Metal, Germany, 2003] <https://youtu.be/-VcA6Coo7AQ>
+- [ ] Antioch - Defiler [Traditional, 2023] (Canada) <https://antiochmetal.bandcamp.com/track/defiler>
+- [ ] Apogean - Vacuous [Canada - 2021] (FFO: The Zenith Passage) <https://apogean.bandcamp.com/track/vacuous-2>
+- [ ] Apokalyptic Raids - Eternal Gloom (Brazil, 2001) <https://youtu.be/1AnOcFPwA4I>
+- [ ] Arche - In A Solace Light [Finland - 2022] (FFO: Mournful Congregation, Evoken) <https://archefin.bandcamp.com/track/in-a-solace-light>
+- [ ] Argenthorns - Wings of Psychomachia (Finland, 2023) <https://argenthorns.bandcamp.com/track/wings-of-psychomachia>
+- [ ] Armory - Hunters from Beyond (Sweden, 2022) [FFO Vektor, Voivod with a speed metal flavor] <https://youtu.be/5vJRGIIYF_8>
+- [ ] Ascended Dead - Intro / Abhorrent Manifestation [Death, 2023, USA] <https://listen.20buckspin.com/track/intro-abhorrent-manifestation>
+- [ ] Ascended Dead - Inverted Ascension <https://youtu.be/v_NpRHAiyaY>
+- [ ] Astrophobos - Descending Shadows <https://www.youtube.com/watch?v=uoJ6riJ6BF4>
+- [ ] Atonement - Await the Command (Sweden, 2023) [FFO: Early Kreator, early Sepultura, Deathhammer] <https://www.youtube.com/watch?v=VsiNSo6_1mg>
+- [ ] Auriferous Flame - Beyond Light, Beyond Reason (atmospheric black metal; ffo: Spectral Lore side projects) <https://spectrallore.bandcamp.com/track/beyond-light-beyond-reason>
+- [ ] Autonoesis - Raise the Dead [CA, 2022] [FFO: Vektor, The Chasm] <https://autonoesis.bandcamp.com/track/raise-the-dead>
+- [ ] Azteca - Arrival In Tenochtitlan [Symphonic Power Metal about Mesoamerican history] <https://www.youtube.com/watch?v=czTbkBOFRQo>
+- [ ] Benediction - Jumping At Shadows (OSDM) <https://youtu.be/LbJr3W2LjZE>
+- [ ] Benighted - Brutus <https://youtu.be/__hEAtCwAvc>
+- [ ] Betrayal Of Fate - Tortured Flames <https://youtu.be/I3PORfJmWUM?si=q8n4CBW7p9nO2-I->
+- [ ] Beyond - Schizopsychotic Eruption [Germany, 2013] [FFO: Necrovore, Omegavortex, Ascended Dead] <https://ironboneheadproductions.bandcamp.com/track/schizopsychotic-eruption>
+- [ ] Bio-Cancer - Citizen... Down! (Greece, 2023) <https://www.youtube.com/watch?v=btx4AcbpLFw>
+- [ ] Bitches Sin - ain’t life a bitch (1986) <https://youtu.be/PDUu1mbfPBQ>
+- [ ] Black Eucharist - Deflowering Jerusalam (New black metal release, FFO: Profanatica, Grand Belial's Key, Prosanctus Inferi) <https://stygianblackhand.bandcamp.com/track/deflowering-jerusalem>
+- [ ] Black Fucking Cancer - Procreate Inverse [2022] <https://sentientruin.bandcamp.com/track/procreate-inverse>
+- [ ] Black Light Council - The Lighthouse Bleak (Black Metal, South Africa, 2023) <https://blacklightcouncil.bandcamp.com/track/the-lighthouse-bleak>
+- [ ] Black Viper - Susperia [Norway, 2018][FFO: Agent Steel, Savage Grace, Liege Lord] <https://dyingvictimsproductions.bandcamp.com/track/susperia>
+- [ ] Black Wound - Trench Blast <https://youtu.be/7HiMvWltaq8>
+- [ ] Blackbraid - Moss Covered Bones on the Altar of the Moon <https://www.youtube.com/watch?v=ZrVgiqoGr_g>
+- [ ] Blackbraid - Twilight Hymn of Ancient Blood <https://youtu.be/CY7PtuaClLE?si=feAqfPIC9NrrJCgV>
+- [ ] Blazon Rite - The Fall of a Once Great House (2023) <https://blazonrite.bandcamp.com/track/the-fall-of-a-once-great-house-2>
+- [ ] Blindfolded and Led to the Woods - Monolith <https://www.youtube.com/watch?v=Pca02BX4oD4&list=OLAK5uy_n6tGIGTHQDxMESlC8S-9zR4mlqn2G_Ns8>
+- [ ] Blood Incantation - Obliquity of the Ecliptic (USA, 2023) <https://www.youtube.com/watch?v=aNul02Xp5C0>
+- [ ] Blood Oath - Reflections of Darkness (2023, Chile. FFO: Stargazer, Atheist, The Chasm, proggy death metal) <https://youtu.be/_OKnjW1saUw?si=fj9efg3okozf3kLo>
+- [ ] Blood Oath - Sanctuary of Souls [2023, Chile] (FFO: Sadus, The Chasm, Stargazer) <https://caligarirecords.bandcamp.com/track/sanctuary-of-souls>
+- [ ] Blood Red Throne - Arterial Lust <https://www.youtube.com/watch?v=qceMLaUKY0E>
+- [ ] Blood Star - Fearless Priestess [USA, 2023, FFO: Visigoth, Enforcer] <https://youtu.be/FeWU-FWNRA8?si=FEOUYY32H7-Ab_Ih>
+- [ ] Bogside Sniper Squadron - Ash Rains at Warrenpoint (FFO: Mi'Guass, early Amon Amarth) <https://bogsidesnipersquadron.bandcamp.com/track/ash-rains-at-warrenpoint>
+- [ ] Boiling Point - The Maze (Death Metal/Hardcore, South Africa, 2023) <https://boilingpointza.bandcamp.com/track/the-maze>
+- [ ] Bonginator - 420 lb Poop [FFO Sanguisugabogg and weed] <https://m.youtube.com/watch?v=bzNxLm4_7wQ>
+- [ ] Bongripper - Reefer Sutherland (United States, 2007) <https://youtu.be/k2KBIs__91s>
+- [ ] Bongzilla - Hashdealer <https://youtu.be/C7JacTFTWV8>
+- [ ] BULMAブ​ル​マ - HAS A DEATHWISH... (2023) <https://www.youtube.com/watch?v=ww2-5wh2JvM>
+- [ ] Caladan Brood - A Voice Born of Stone and Dust [US, 2013] <https://caladanbrood.bandcamp.com/track/a-voice-born-of-stone-and-dust>
+- [ ] Cattle Decapitation - Solastalgia (USA, 2023) <https://cattledecapitation.bandcamp.com/track/solastalgia>
+- [ ] Cauldron Born - Thannhausefeer's Guest [Kentucky, 2022][FFO: Omen, Helstar, Manilla Road] <https://cauldronborn1.bandcamp.com/track/thannhausefeers-guest>
+- [ ] Cave Moth - Paralytic Love <https://youtu.be/hDLcOGmGZQM>
+- [ ] Cemetery Dwell - Ancient fell God (Argentina, 2023) [FFO: Demigod, Intestine Baalism, A Canorous Quintet) <https://cemeterydwell.bandcamp.com/track/ancient-fell-god>
+- [ ] Century - Sinister Star <https://centuryswe.bandcamp.com/track/sinister-star>
+- [ ] Chained to the Bottom of the Ocean - Hole In My Head (USA, 2023) <https://chainedtothebottomoftheocean.bandcamp.com/track/hole-in-my-head>
+- [ ] Chepang - Anumati (2023, Grindcore from the streets of Kathmandu, Nepal to NYC) [FFO: Wormrot, Discordance Axis, Colin Marston] <https://youtu.be/rj3yT5AFdnQ>
+- [ ] Chepang - Ba (2023) [Grindcore with a portion of Free Jazz and Cyber] [FFO: Wormrot, Discordance Axis, Colin Marston] <https://lckr.bandcamp.com/track/ba>
+- [ ] Cloak - The Holy Dark [US, 2023, FFO: Watain, Slægt, Satyricon] <https://www.youtube.com/watch?v=QI7gZr8dHJk>
+- [ ] Coffin Mulch - Fall of Gaia <https://coffinmulch.bandcamp.com/track/fall-of-gaia>
+- [ ] Coffin Nail - Strangling Gallows (USA, 2023) <https://coffinnail.bandcamp.com/track/strangling-gallows>
+- [ ] Coffin Rot - Reduced to Visceral Sludge (USA, 2021) <https://www.youtube.com/watch?v=s6VuwX2GyTE>
+- [ ] Conan - Equilibrium of Mankind [UK - 2022] (FFO: Bongripper, Electric Wizard) <https://youtube.com/watch?v=BPk48kOn9e0&feature=share>
+- [ ] Concrete Winds - Noise Trepanation [Finland, 2021] [FFO: Omegavortex, Necrovore, Vorum] <https://concretewinds.bandcamp.com/track/noise-trepanation>
+- [ ] Convulse - World Without God (Finland, 1991) <https://youtu.be/cOeOCCJi0ow>
+- [ ] Cornigr - Devil's Church (Finland, 2015. FFO: Mare, Vitsaus, Darvaza) <https://terraturpossessions.bandcamp.com/track/devils-church>
+- [ ] Corpsessed - Sublime Indignation [Finland - 2023] (FFO: Incantation, Dead Congregation) <https://corpsessed.bandcamp.com/track/sublime-indignation>
+- [ ] Crown the Beast - Hate <https://www.youtube.com/watch?v=t8i3GIG8QY0>
+- [ ] Cruciamentum - Abhorrence Evangelium (2023, UK/US. FFO: Grave Miasma, Dead Congregation, Incantation) <https://youtu.be/kFGZ8lNOvHo?si=Wq4iDVSCE8JLEqc7>
+- [ ] Cruel force - at the dawn of the axe (Germany, 2023) <https://youtu.be/4KeuUyzEi1c?si=xalPqIpCXJE8P9I9>
+- [ ] Cruel Force - At the Dawn of the Axe <https://youtu.be/4KeuUyzEi1c?si=4Ga-3msgL0iPQS1M>
+- [ ] Cryptic Nebula - Cortex of Obscenity (Romania, 2023)[FFO: Demilich, Gorguts, Morbid Angel, Suffocation] <https://youtu.be/1IUmUlOEv9g?si=51-dvBXcc1aW9WB2>
+- [ ] CRYPTOPSY - Flayed The Swine <https://www.youtube.com/watch?v=2cKGEeDXovg>
+- [ ] Curta’n Wall - Fear of God <https://youtu.be/8WDhlW3u93U>
+- [ ] Círculo en el Sol - Parias (Chile, 2020) <https://circuloenelsol.bandcamp.com/track/parias-2>
+- [ ] Damaar - Preaching for Mass Suicide [War, Lebanon, 2007][FFO: Revenge] <https://www.youtube.com/watch?v=1SVUxlOrAE0>
+- [ ] Damnation - Trash For Death (Canada, from "Speed Anarchy" demo 1986) <https://youtu.be/Ajh3zbnlAqs>
+- [ ] Dark Quarterer - Devil Stroke <https://www.youtube.com/watch?v=x23DjsK3zxQ>
+- [ ] Dark Star - Backstreet Killer ( 1981 ) [ NWOBHM ] <https://youtu.be/KlGsUUdpR9g>
+- [ ] Darkland - 40 Years (1990 - Death/Thrash Metal - GDR) <https://youtube.com/watch?v=twFnlzD4hj8&feature=share>
+- [ ] Dead Heat - Smite Thee [Oxnard, CA; 2023) <https://youtu.be/z9-4M2sdHqg>
+- [ ] Death Angel - The Ultra-Violence (USA, 1987) <https://youtu.be/hthWSIuHDWg>
+- [ ] Death Fortress - Eternal Enemies (FFO: Hate Forest, Guitar tone you can chew) <https://youtu.be/bcf6JuQ6FUw>
+- [ ] Decipher - Lost in Obscurity (Greece, 2023, FFO: Mgla) <https://decipherbm.bandcamp.com/track/lost-in-obscurity>
+- [ ] Degraved - Compulsory Bloodletting (2023, US. FFO: Incantation, Disma) <https://mesacounojo.bandcamp.com/track/compulsory-bloodletting>
+- [ ] Denial of God - Funeral <https://m.youtube.com/watch?v=yS6dZA3gv88>
+- [ ] Depravity - Vacuum of Thoughts (Finland, 1993) <https://www.youtube.com/watch?v=_x0soczZkHo>
+- [ ] Desolator - Adversarial Doctrine [Sweden - 2020] (FFO: Vader, Immolation) <https://desolatorsweden.bandcamp.com/track/adversarial-doctrine>
+- [ ] Deus Mortem - The Destroyer [Black Metal, Poland, 2019] <https://youtu.be/e05oT4p7h8Q>
+- [ ] Devastation - Idolatry <https://youtu.be/X2XEuuylR9k?feature=shared>
+- [ ] Devastator - Death Forever (UK, 2023, FFO: Venom, Midnight, Hellripper) <https://devastatorblackthrash.bandcamp.com/track/death-forever?from=fanpub_fnb_trk>
+- [ ] Devastator - Liar in Wait (UK Black Thrash/Speed, ffo Hellripper and Midnight) <https://youtu.be/RFoxYuWmUVg>
+- [ ] Devil's Force - Cold Hard Steel (Sweden, 2018) <https://www.youtube.com/watch?v=2BOTErR4sQM&ab_channel=Devil%27sForce-Topic>
+- [ ] Devourment - Festering Vomitous Mass (United States, 1999) <https://youtu.be/5bd0XftIq94>
+- [ ] Dew-Scented - Turn To Ash [FFO: Decapitated, Vader] <https://www.youtube.com/watch?v=0HNKInvNeN4>
+- [ ] Dhishti - මරුදැපවිල්ල (Marudepawilla) [2023, Sri Lanka, FFO: Shining, Dissection] <https://www.youtube.com/watch?v=XMLGqaVWdxU>
+- [ ] Dipygus - Living Fossil (Santa Cruz, 2023) (FFO: Autopsy, Undergang) <https://dipygus.bandcamp.com/track/living-fossil>
+- [ ] Dirty Rotten Imbeciles [USA] - Syringes in the Sandbox | Album: Full Speed Ahead (1995) <https://www.youtube.com/watch?v=BDYtKB8RBnA>
+- [ ] Discharge by Death - Shroud of Iniquity [Brutal DM, Prison DM, 2011] <https://www.youtube.com/watch?v=yNRdh2DRi9E>
+- [ ] Disimperium - Blade Obfuscation (US, 2023) <https://www.youtube.com/watch?v=3md1Cw3KZuk>
+- [ ] Disimperium - Manifested Primordial Torment (Black/death/grind FFO Mitochondrion, Infernal Coil, Ascended Dead) <https://disimperium.bandcamp.com/track/manifested-primordial-torment>
+- [ ] Dissentience - Ubasute [2022, USA, Melodic Death/Thrash, FFO: Sylosis, Revocation] <https://dissentience.bandcamp.com/track/ubasute>
+- [ ] Dominus - Tears in Black (Denmark, 1994) <https://youtu.be/HN9LoakD2vM>
+- [ ] Dream Troll - Unwanted By The Gods [2012, NWOTHM, UK] <https://youtu.be/flY77wqULsA>
+- [ ] Dripping Decay - Barf Bag (feat. former Exhumed bassist Matt Slime) [USA, 2023] <https://drippingdecay.bandcamp.com/track/barf-bag-featuring-matt-slime>
+- [ ] Drowned - Chyrseos Vas (2023, Germany. FFO: Necros Christos, Grave Miasma, chunky esoteric death metal) <https://youtu.be/OHiO8qsAryI>
+- [ ] Dryad - Brine Pool Aberration [IA, USA - 2023] (FFO: blackened crust/crossover) <https://dryad.bandcamp.com/track/brine-pool-aberration>
+- [ ] Dumal - Lost Caverns <https://www.youtube.com/watch?v=DOl3ydsP0l8&ab_channel=Dumal-Topic>
+- [ ] Ecocide - Eye Of Wicked Sight (Oldschool Death,NL, 2013) <https://youtu.be/VcOoeAd8Ss8>
+- [ ] Eldprov - Grand Sentinel (Official Music Video) <https://youtu.be/LwctBU22taw>
+- [ ] Eldritch - Ghoulish Gift (1997, progressive metal) <https://www.youtube.com/watch?v=b4_yP_Ofw38>
+- [ ] Elixir - Trial By Fire [England, 1986][FFO: Omen, Desolation Angels, Cloven Hoof] <https://www.youtube.com/watch?v=NWZPXZqKHgw>
+- [ ] Elyrean - "Blacken The Sun" [UK - 2019] (FFO: Sylosis) <https://elyreanthrash.bandcamp.com/track/blacken-the-sun-2>
+- [ ] Endstille - With The Fog They Come <https://www.youtube.com/watch?v=7MzzcOHwzeM&ab_channel=Endstille-Topic>
+- [ ] Enforced - War Remains <https://youtu.be/Pkre9jDmHBM>
+- [ ] Enforcer - Metal Supremacia (Sweden, 2023) <https://youtu.be/B7B-pgspzzk>
+- [ ] Eternal Rot - Desecrated Guts (death doom; ffo: Mortiferum, Spectral Voice) <https://youtu.be/4BEyu8Xb720>
+- [ ] Evildead - Annihilation of Civilization (USA, 1989) <https://www.youtube.com/watch?v=b9FW6lGxhI8>
+- [ ] Evoken - Accursed Premonition <https://www.youtube.com/watch?v=ZwWifJSyZnU>
+- [ ] Exciter - Scream In The Night (FFO: Violence and/or Force) <https://youtu.be/4uibBRsMPh8>
+- [ ] Fabricant - Borderland Vigil [2023, USA - FFO Demilich, Nocturnus] <https://fabricant.bandcamp.com/track/borderland-vigil>
+- [ ] Face Down - Blood Tiles [FFO: The Haunted. Dew Scented] <https://www.youtube.com/watch?v=zTIydI_bG_E>
+- [ ] Faerie Ring - Lover [2023, King Volume Records] <https://faeriering.bandcamp.com/track/lover-2>
+- [ ] Faidra - A Pact Among Wolves <https://youtu.be/5MumurXpn3M>
+- [ ] Fen - Scouring Ignorance [UK - AtmoBlack] <https://fenuk.bandcamp.com/track/scouring-ignorance>
+- [ ] FETID ZOMBIE (US) - Beyond Andromeda <https://m.youtube.com/watch?v=8GQSGMJ_CDo>
+- [ ] Fire Magic - Crush of the Shield Wall [Underground USBM, 2022] <https://firemagic.bandcamp.com/track/crush-of-the-shield-wall>
+- [ ] Firmament - Losing You (Germany, 2023, FFO: Wytch Hazel) <https://firmamentband.bandcamp.com/track/losing-you-2>
+- [ ] Fleshvessel - The Void Chamber <https://i-voidhangerrecords.bandcamp.com/track/the-void-chamber>
+- [ ] Flight - Hypatia (Echoes of Journeys Past 2023) <https://youtu.be/9lQUUS_nEsw>
+- [ ] Flourishing - As if Bathed in Excellence (USA, 2011) <https://thepathlesstraveledrecords.bandcamp.com/track/as-if-bathed-in-excellence>
+- [ ] Forbidden Tomb - Conjuration of the Black Flame (Indonesia, 2023) <https://youtu.be/cP7ReqaEAbc>
+- [ ] Forefather - Three Great Ships [UK, 2008] [FFO: Falkenbach, Bathory, Obsequiae] <https://forefather.bandcamp.com/track/three-great-ships>
+- [ ] Frolic - “Upon What’s Left of Me” - SF Bay Area thrash <https://youtu.be/8xWZeLcbMmk>
+- [ ] Frozen Soul - Assimilator <https://youtu.be/LGKzBBwl9Mw>
+- [ ] FROZEN SOUL - Glacial Domination <https://youtu.be/R01HY21O4jg>
+- [ ] Fugitive - Blast Furnace (FFO: Power Trip, Spiritworld, crossover thrash) <https://fugitivetx.bandcamp.com/album/blast-furnace-b-w-standoff>
+- [ ] Gaffed - Decimate (2023, off first release since 1995) <https://youtu.be/GxQPDESkN0g>
+- [ ] Gargantuan Blade - Necromancer's Blood [Epic Heavy/Doom Metal, Finland, 2022] <https://youtu.be/KXULSDMthJY>
+- [ ] Garoted - Infernal Death’s Majesty (USA, 2023) <https://garoted.bandcamp.com/track/infernal-deaths-majesty>
+- [ ] Gehennah - Too Loud to Live, Too Drunk to Die (2016 Swedish black/thrash FFO: Venom, Motorhead, gettin drunk and startin street fights with the boys) <https://gehennah.bandcamp.com/album/too-loud-to-live-too-drunk-to-die>
+- [ ] Gnaw Their Tongues - For All Slaves... A Song of False Hope II [BM, Noise, 2008] <https://www.youtube.com/watch?v=0mHU657gq5Y>
+- [ ] Gnaw Their Tongues - My Orifices Await Ravaging <https://youtu.be/hY81Yon92Gs>
+- [ ] Goatlord - Distorted Birth (US, 1991) <https://youtu.be/3aBJVZKdTFM>
+- [ ] Gorephilia - Ark of The Indecipherable (2020, Finland. FFO: Dead Congregation, Morbid Angel, Blood Incantation when they’re not high) <https://youtu.be/5igF2B-B1LM>
+- [ ] Grave Altar - Wretched Halls Of Death (UK, from "Morbid Spell" 2019) <https://youtu.be/RS8rXzrCcwQ>
+- [ ] Grave Danger (the weird fat guy from that one instagram account)
+- [ ] GraveRipper - And I Curse Reality (2023) <https://graveripper.bandcamp.com/track/and-i-curse-reality>
+- [ ] Graveyard - Of Extant Cults And Living Terrors [2019] <https://www.youtube.com/watch?v=zv0YX3MQV7Y>
+- [ ] Green Lung - Mountain Throne <https://youtu.be/NsCq286wqVE>
+- [ ] Grim Ravine - Upon the darkest shores (UK September 2023) <https://cursedmonk.bandcamp.com/album/upon-the-darkest-shores?action=share&from=twittercard>
+- [ ] Gutalax - Diarrhero <https://www.youtube.com/watch?v=O8kGgtF-C4w>
+- [ ] Gutted - Chopped Up at the Altar [US / 1994] [FFO: Obituary, Pestilence, Morta Skuld] <https://www.youtube.com/watch?v=wXdqFGszJTE>
+- [ ] H-Bomb - Attaque / Exterminateurs (1984) <https://www.youtube.com/watch?v=tAXn2mq2mSw>
+- [ ] Hagorun - Into the Heart of Eternity (Bosnia & Herzegovina, 2022) FFO: Sanguine Eagle, Forest, Branikald <https://hagorun.bandcamp.com/track/into-the-heart-of-eternity>
+- [ ] Hail Conjurer - Scarlet Gate <https://youtu.be/RRBy456jvUc>
+- [ ] Hallucinate - AION [Germany, coming August 2023, FFO Necros Christos, Asphyx] <https://caligarirecords.bandcamp.com/track/aion>
+- [ ] Hang The Bastard - Sign of the Wolf (Pentagram cover) <https://www.youtube.com/watch?v=qS3u4_0IInw>
+- [ ] Hasturian Vigil - Nine Bellowing Hounds [2023, Ireland | FFO: Negative Plane, Mortuary Drape, Zemial] <https://invictusproductions666.bandcamp.com/track/nine-bellowing-hounds>
+- [ ] Haunter - Catacomb Shadows <https://haunter666.bandcamp.com/track/catacomb-shadows>
+- [ ] Headless Queen (Death/Thrash) - Bridge To Nowhere <https://www.youtube.com/watch?v=43ZP4RGyHAo>
+- [ ] Heavens Gate - Livin' in Hysteria <https://www.youtube.com/watch?v=aGUOHJ24sKE>
+- [ ] Heavy Load - Heavy Metal Angels (In Metal And Leather) [1982, Sweden] <https://www.youtube.com/watch?v=NiUE9SQMH5s>
+- [ ] Hecate Enthroned - The Crimson Thorns My Immortal Dreams <https://youtu.be/EXWuG9W396E>
+- [ ] Hell - Machitikos <https://www.youtube.com/watch?v=pdf71uQiud4&pp=ygUKbWFjaGl0aWtvcw%3D%3D>
+- [ ] Hellripper - The Nuckelavee (Warlock Grim & Withered Hags) <https://youtu.be/w8mwkqZNXSc>
+- [ ] Hellthrash - Fuck The Police <https://www.youtube.com/watch?v=0f6UsmxUWWM>
+- [ ] Helstar - To Sleep, Per Chance to Scream [Texas, 1989][FFO: Liege Lord, Crimson Glory, Toxik] <https://www.youtube.com/watch?v=RAN7p32u9Bw>
+- [ ] Howls of Ebb - Of Heel, Cyst and Lung [2014, US, FFO: Demilich, Portal, Oranssi Pazuzu] <https://www.youtube.com/watch?v=ecvmA-xvhWo>
+- [ ] I Am - Peel Back The Skin <https://www.youtube.com/watch?v=srCuO5sUKis>
+- [ ] Ice Giant - Ghost of Humanity <https://www.youtube.com/watch?v=VvmkCxDfdHI>
+- [ ] Ice Giant - Grandeval's Machine <https://www.youtube.com/watch?v=2U_GblxBVUY>
+- [ ] Ierfeweardian Oþfeallan Snytrucræft - Twéoneléoht Wrætt [England, 2023 • FFO: Venymysgourvleydh, Épéistes, Burgfried] <https://inversesolarreqvriem.bandcamp.com/track/tw-onel-oht-wr-tt-2>
+- [ ] Ignominy - Nightmare Bacteria [Canada - 2023] (FFO: Gorguts, Ulcerate, Norse) <https://ignominydeath.bandcamp.com/track/nightmare-bacteria>
+- [ ] Immolation - No Forgiveness (Without Bloodshed) (USA, 1991) <https://www.youtube.com/watch?v=Dy8Y9zT3GgA>
+- [ ] Immortal Sun - The Last Words from the Great Sphinx (Black Metal, Egypt/Colombia, 2023) <https://mastersofkaos.bandcamp.com/track/the-last-words-from-the-great-sphinx-2>
+- [ ] Impaled divinity - Draped in Slabs of Mephitic Tissue <https://impaleddivinity.bandcamp.com/track/draped-in-slabs-of-mephitic-tissue-2>
+- [ ] Imperial Destruction - Soul Harvester (Death, South Africa, 2023) <https://www.youtube.com/watch?v=bacZa9L39FA>
+- [ ] Impetuous Ritual - Grail of Enmity [Australia, 2023 - New song from new album, release date 12th of May] <https://youtu.be/oZ3v81T0GP4>
+- [ ] Impetuous Ritual - Sanguinary Abstraction [AUS. 2023. FFO: Portal, Teitanblood, Dead Congregation] <https://youtu.be/GpDFna_7hC8>
+- [ ] Impiety - Legacy Of Savagery <https://youtu.be/0w3BQ6pPTYM>
+- [ ] Incantation - Blasphemous Cremation <https://youtu.be/N_3D_dGgjqo>
+- [ ] INCANTATION - Homunculus (Spirit Made Flesh) IX <https://youtube.com/watch?v=oDonfRuvnTc>
+- [ ] Infernal Curse - Intro & Revelations Beyond Insanity (Argentina, 2023. FFO: Abysmal Lord, Proclamation, Teitanblood) <https://youtu.be/XadNtej_OkQ>
+- [ ] Infestation of Death - Human Struggle [2023, Chile, FFO Blood Incantation, The Chasm] <https://infestationofdeath.bandcamp.com/track/human-struggle>
+- [ ] Iniquitous Deeds - Abstract Vibrations Compressed [CA, USA - 2015] (FFO: Defeated Sanity) <https://iniquitousdeeds.bandcamp.com/track/abstract-vibrations-compressed>
+- [ ] Inner Sanctum - Vicious Cycles (1986) <https://www.youtube.com/watch?v=FoxN_umPTtw>
+- [ ] Invocator - Through the Nether to the Sun [1993, Denmark] <https://www.youtube.com/watch?v=_3HPEPUqiec>
+- [ ] Iron Warning - In the Eye of the Altar [Canada, 2023 • FFO: Bolt Thrower, Asphyx, War Master] <https://ironwarning.bandcamp.com/track/in-the-eye-of-the-altar>
+- [ ] Jag Panzer - Stronger Than You Know [Power Metal, USA, 2023] <https://youtu.be/1Js7qWNjP1Q>
+- [ ] Jassa - Thousand-eye Gory Mother of Sorrow and Enlightenments [Russia, 2023 • FFO: Death Fortress, Forteresse, Sivyj Yar] <https://jassa1227.bandcamp.com/track/thousand-eye-gory-mother-of-sorrow-and-enlightenments>
+- [ ] Jenovavirus - Primetive Aboxy <https://www.youtube.com/watch?v=Hexn8z6-iMo>
+- [ ] Judas Iscariot - Where Eagles Cry and Vultures Laugh (USA, 2002) <https://youtu.be/tsX0l-5QNt0>
+- [ ] Jute Gyte - Disinterment of Sfanomoë [US, 2023 | FFO: Krallice, Ad Nauseam, Microtonal tuning systems] <https://jutegyte.bandcamp.com/track/disinterment-of-sfanomo>
+- [ ] Kaatayra - Miséria da Sabedoria <https://youtu.be/Y-bOMCRRCt8>
+- [ ] Khanate - Like a Poisoned Dog (USA, 2023) <https://khanate.bandcamp.com/track/like-a-poisoned-dog-2>
+- [ ] Kings Rot - Last Dance for the Eternal Flame [Canada - 2023] <https://hypnoticdirgerecords.bandcamp.com/track/last-dance-for-the-eternal-flame>
+- [ ] Knoll - Tether and Swine [2023] <https://www.youtube.com/watch?v=JeKzqgI7RBg>
+- [ ] Koldharbor - Eternal Reign Of Fire <https://youtu.be/U57uJw1ktmc>
+- [ ] Krallice - Porous Resonance Abyss Part I [2023, NY, FFO haunted houses, space travel] <https://krallice.bandcamp.com/track/porous-resonance-abyss-part-i>
+- [ ] Krypts - Arrow of Entropy (Finland, 2016) <https://darkdescentrecords.bandcamp.com/track/arrow-of-entropy>
+- [ ] Kuusuo - Spirits Bound To The Cross (Finland, 2022) <https://youtu.be/6cSUpJdmQ_4>
+- [ ] LAZARVS - Perpetual Rule <https://www.youtube.com/watch?v=TNxnFnIP-L0&ab_channel=LazarvsOfficial>
+- [ ] Left Cross - The Blood of Mars (2023 USA) <https://youtu.be/KXwnyj7wYCE?si=LQR4_z7J6Ww8Yt7q>
+- [ ] Lipoma - Accidental Awareness During General Anesthesia <https://youtu.be/2vBJ5U7Tj2U>
+- [ ] Lotus Ash - Sometimes Comes the Wolf [Sludge, USA, 2017] <https://www.youtube.com/watch?v=qCPxRUGekb0>
+- [ ] Lowest Creature - Under The Night Sky <https://m.youtube.com/watch?v=LtMzHfUeb0Y&pp=ygUPbG93ZXN0IGNyZWF0dXJl>
+- [ ] Lucifixion - Howl, Thy Desolate Sound (US, 2023) <https://sentientruin.bandcamp.com/track/howl-thy-desolate-sound>
+- [ ] Lucifuge - Resources of Self Destruction <https://youtube.com/watch?v=F1tHFpNI2Bk>
+- [ ] Lunar Chamber - The Bodhi Tree [FFO: Cynic, Lykathea Aflame, eastern-themed brutal/prog death] <https://20buckspin.bandcamp.com/track/the-bodhi-tree>
+- [ ] Lure - Eternal Torments​.​.​. By the Winds Into Eternity [FFO: Silver Knife, Paramnesia, Oerheks] <https://lureband.bandcamp.com/track/eternal-torments-by-the-winds-into-eternity>
+- [ ] Lysergic - Erratic Noose Departure (2023) <https://crucialblast.bandcamp.com/track/erratic-noose-departure>
+- [ ] Macabre - Night Stalker <https://www.youtube.com/watch?v=BYHnMw9N0EA>
+- [ ] Maldevera - Hydraulic Injection Injury <https://maldevera.bandcamp.com/track/hydraulic-injection-injury>
+- [ ] Malokarpatan - Kočár postupuje temnomodrými dálavami na juhozápad [black/heavy, Slovakia, 2023. FFO: Negative Plane, Master's Hammer, Mortuary Drape] <https://invictusproductions666.bandcamp.com/track/ko-r-postupuje-temnomodr-mi-d-lavami-na-juhoz-pad>
+- [ ] Malthusian - Dissolution of Consciousness [Ireland - 2022] (FFO: Abyssal, Mitochondrion) <https://malthusian.bandcamp.com/track/malthusian-dissolution-of-consciousness>
+- [ ] Markgraf - Der Mummelsee [Germany, 2020, ffo: Master's Hammer, Cirith Ungol, Archgoat] <https://markgraf.bandcamp.com/track/der-mummelsee>
+- [ ] MASSIVE GUN - MASSIVE GUN (from the album MASSIVE GUN, 2023, FFO Sanguisugabogg, Frozen Soul) <https://massivegun.bandcamp.com/track/massive-gun>
+- [ ] Messa - Blood (Italy, 2016) <https://youtu.be/LeiXu4-0nQw>
+- [ ] Meurtrières - Aucun Homme, Aucun Dogme, Aucune Croix [Trad] [FFO : Early Iron Maiden, 80s French Heavy Metal] <https://meurtrieres.bandcamp.com/track/aucun-homme-aucun-dogme-aucune-croix>
+- [ ] Miasma of Occvlt Limbs - (Portal) Con las Vísceras Expuestas la Iluminación Cadavérica me Sacraliza [Chile, 2023; Death/Doom; FFO: Spectral Voice] <https://miasmaofoccvltlimbs.bandcamp.com/track/portal-con-las-v-sceras-expuestas-la-iluminaci-n-cadav-rica-me-sacraliza>
+- [ ] Minarchist - In Absence of Air (FFO: Obsidious, Black Crown Initiate) <https://www.youtube.com/watch?v=tvAMikBax0w>
+- [ ] Miscreance - No Empathy [Italy - 2022] (FFO: Atheist, Death, Sadus) <https://miscreance.bandcamp.com/track/no-empathy>
+- [ ] Miscreance - The Garden [Italy, 2022] [FFO: Atheist, Obliveon, Pestilence] <https://unspeakableaxerecords.bandcamp.com/track/the-garden>
+- [ ] Mithras - Gods Among Men <https://youtu.be/I9Yjb1IEJ1Q>
+- [ ] Moonlight Sorcery - In Coldest Embrace (2023) <https://youtu.be/WZ_cE0bub-Y>
+- [ ] Morgul Blade - Beneath The Black Sails [blackened heavy metal, US, 2023, FFO: Satan's Host, Nite, Brocas Helm] <https://morgulblade.bandcamp.com/track/beneath-the-black-sails>
+- [ ] Morgul Blade - The Five Will Ride at Dawn <https://www.youtube.com/watch?v=bmx5hCbBFbQ>
+- [ ] Morgurth - From the Ice (Atmospheric Black Metal, 2023) <https://youtu.be/3MZGQEofN-Y>
+- [ ] Mortality - Dead by Dawn (Sweden, 1990) <https://youtu.be/pxFILAGGv0I>
+- [ ] Mortuary - Blood Storm (Mexico, from "Blackened Images" 1990) <https://youtu.be/svBtCaYBMVk>
+- [ ] Mur - Breach & Bitter [MN, USA - 2022] <https://murmn.bandcamp.com/track/breach-bitter>
+- [ ] Mutiilation - The Bitter Taste of Emotional Void <https://youtu.be/wH4o2igj50E>
+- [ ] Mycorrhizae - Strength in Space [US, 2023 • FFO: Krallice, Kaldeket, Dreaming Machine] <https://www.youtube.com/watch?v=dbDVSaIQGM0>
+- [ ] Mythos - Exilefame (Death/Thrash, Egypt, 2023) <https://mythosband.bandcamp.com/track/exilefame>
+- [ ] Necrom - The Light Has Never Been Here [2022, Ukraine, Death Metal, FFO: Entombed, Dismember, HM-2] <https://osmoseproductions.bandcamp.com/track/the-light-has-never-been-here>
+- [ ] Necronomicon Ex Mortis - Celestial Tomb [FFO: The Chasm, Sulphur Aeon, Vektor] <https://youtu.be/gWSmqWpGVCI>
+- [ ] Negative Plane - A Church in Ruin <https://youtu.be/vV1AX3wTWx8>
+- [ ] Negative Vortex - Cease to Exist [CA, USA - 2023] <https://sentientruin.bandcamp.com/track/cease-to-exist>
+- [ ] NME - Lethal Dose <https://www.youtube.com/watch?v=e29lUtJ8tfM>
+- [ ] No Mercy - We're Evil (California, 1987) (FFO: Suicidal Tendencies, Nuclear Assault, DRI) <https://www.youtube.com/watch?v=UYgz3X7od5E>
+- [ ] Nothingness - Festering Abstraction [US, 2023, FFO: Suffering Hour, Malignant Alter, Tomb Mold] <https://www.youtube.com/watch?v=_IDIkjQC-s4>
+- [ ] Obliveon - The Thinker's Lair [Canada, 1993] [FFO: Atheist, Nocturnus, Martyr] <https://obliveon.bandcamp.com/track/the-thinkers-lair>
+- [ ] Odz Manouk - Arevordik [black, USA, 2023. FFO: Arizmenda, Tukaaria, Negative Plane] <https://bloodcolouredbeast.bandcamp.com/track/arevordik>
+- [ ] Olde Throne - Greyfriars Kirkyard (New Zealand, 2023) <https://youtu.be/lBlYLmE0nT4>
+- [ ] Onslaught - 66'fucking'6 <https://youtu.be/vCWiH2IGuCU>
+- [ ] Order From Chaos - The Edge Of Forever <https://www.youtube.com/watch?v=RakjJL8Kfd0>
+- [ ] Ossuaire - La Sainte Purge [CA, 2021] [FFO: Gris, Quebec black metal] <https://ossuaire.bandcamp.com/track/la-sainte-purge>
+- [ ] Ossuary - The Undrownable Howl of Evil (USA, 2023) <https://ossuary-dsr.bandcamp.com/track/the-undrownable-howl-of-evil>
+- [ ] Other World - Of Death And Alteration [CA, USA - 2023] <https://other-world.bandcamp.com/album/of-death-and-alteration>
+- [ ] Outlaw - To Burn This World and Dissolve the Flesh <https://youtube.com/watch?v=RQPGZsXfAL4>
+- [ ] Owlbear - Fall on Your Blade (US, 2023) <https://owlbearmetal.bandcamp.com/track/fall-on-your-blade>
+- [ ] Owlbear - The Voyage of the Wraith (2023) <https://owlbearmetal.bandcamp.com/track/the-voyage-of-the-wraith>
+- [ ] Pa Vesh En - Le Fantôme de Cette Madame [Belarus, 2023 • FFO: Bekëth Nexëhmü, Lampir, Black Cilice] <https://ironboneheadproductions.bandcamp.com/track/le-fant-me-de-cette-madame>
+- [ ] Pallid Veil - Pallid Veil [USA 2023, death metal FFO Gorguts] <https://totaldissonanceworship.bandcamp.com/album/pallid-veil>
+- [ ] Panopticon - Cedar Skeletons <https://thetruepanopticon.bandcamp.com/album/cedar-skeletons-single>
+- [ ] Passéisme - Stubborn Zeal Chant [2023; FFO: Véhémence] <https://antiqofficial.bandcamp.com/track/stubborn-zeal-chant>
+- [ ] Penny Coffin - Ballistic (2023) <https://pennycoffindeath.bandcamp.com/track/ballistic>
+- [ ] Pestilence - Delirical Life (Netherlands, from "Dysentery" demo 1987) <https://youtu.be/3WxYDVuVwik>
+- [ ] PHANTOM - HANDED TO EXECUTION (Official Music Video) VHS <https://youtu.be/cYHIcRmcbOw>
+- [ ] Phantom Lung - Atrocious Aura <https://youtu.be/AJ_BOUWV-ws>
+- [ ] Phyllomedusa - Murderfrog Blues <https://youtu.be/UKQbEXLtwV8>
+- [ ] Poison - Slaves (of the Crucifix) (Germany, 1987) <https://www.youtube.com/watch?v=oMTCiUYn-UE>
+- [ ] Poisoned Blood - Bestial Tormentor (Japan, 2023) FFO: Abigail, Barbatos, Sabbat <https://nuclearwarnowproductions.bandcamp.com/track/bestial-tormentor>
+- [ ] Private Hell - Tower of Silence (2023, FFO: Sepultura, Sacrilege, Integrity, Power Trip) <http://privatehellrva.bandcamp.com/track/tower-of-silence>
+- [ ] Pulverized Necrobrains - Enucleation [USA, 2022; OSDM; FFO: Undergang] <https://totallypulverized.bandcamp.com/track/enucleation>
+- [ ] Putrefaction - Severing Flesh (Sweden, from "Painful Death" demo 1989). A side-project of Grave members <https://youtu.be/nNZcVw7iiSQ>
+- [ ] Rattlesnake Venom Trip - Dead Empire [2022] <https://youtu.be/CAhL9KcR8dQ>
+- [ ] Re-buried - Repulsive Nature (2023, Seattle) <https://youtu.be/FpHQDRG09Fw>
+- [ ] Red Eyed Cult - Hammerhands [UK - 2023] <https://redeyedcult.bandcamp.com/track/hammerhands>
+- [ ] Regurgitate - Drowning in Filth (Sweden, 2003) <https://www.youtube.com/watch?v=yVX2U81oQOc>
+- [ ] Rendered Helpless - Suffering Of Seraphim <https://youtu.be/ED89eBSAEeg>
+- [ ] Riffobia - God of Hate <https://www.youtube.com/watch?v=yJrpufnymuk>
+- [ ] Ripper - Raising the Corpse (2014) <https://youtu.be/0Dl9-UXzLAA>
+- [ ] River's Edge - Where The Dark Streets Go (Sweden, from "Mind The Edge" demo 1988) <https://youtu.be/q0PHrBkpQiQ>
+- [ ] Rot - Diabolus (The Unholy Rot) [Atlanta, GA, 1990 - re-issued in 2023] <https://borisrecords.bandcamp.com/track/diabolus-the-unholy-rot>
+- [ ] Runemagick - Nocturnal Deities of Winter <https://www.youtube.com/watch?v=CIh1HeLvfzY>
+- [ ] RUÏM - The Triumph (of Night & Fire) [FFO Blasphemer] <https://www.youtube.com/watch?v=MaEWVPUBAhQ>
+- [ ] Rwake - Dying Spiral Galaxies (USA, 2004) <https://youtu.be/qu8nerGRYLc>
+- [ ] Sacral - Endless Fields of Rock and Moss [FFO Darkthrone, Wolves in the Throne Room] <https://sacralblack.bandcamp.com/track/endless-fields-of-rock-and-moss>
+- [ ] Sadistic intent - ancient black earth <https://youtu.be/w64G3y7A6z4?si=CxYVv_nnpzOPBFkp>
+- [ ] Scanner - Terminal Earth (FFO: Helloween, Riot) <https://www.youtube.com/watch?v=9szhB8y33d4>
+- [ ] Seax - New World Crucifixion (US, 2022) <https://seax.bandcamp.com/track/new-world-crucifixion>
+- [ ] Shape Of Despair - Reaching the Innermost <https://www.youtube.com/watch?v=y7gZ7KpBw5c>
+- [ ] Sigh - Corpsecry - Angelfall <https://youtu.be/P_CG5fUE3po>
+- [ ] Skravl - untitled 1 (2020 Danish black metal FFO: slower Nocturnal Triumph, Cosmic Church, melancholic fuzzy lofi goodness) <https://skravl.bandcamp.com/track/--5>
+- [ ] SkyThala - Eternal Nuclear Dawn (US, 2022 | FFO: Krallice; I, Voidhanger Records) <https://skythala.bandcamp.com/track/eternal-nuclear-dawn>
+- [ ] Slabdragger - Implosion Rites [Sludge/Doom, UK, 2016] <https://www.youtube.com/watch?v=eABNnHRPf8E>
+- [ ] Slander - Lonely Nights (FFO: Mendes Prey, Crucifixion) <https://www.youtube.com/watch?v=kEpI3p3iSFg>
+- [ ] Smoulder - The Talisman and the Blade <https://youtube.com/watch?v=rPS3TQPAX9s&feature=share>
+- [ ] Snorlax - Book Ov Serpents [Australia, 2023] <https://snorlaxbm.bandcamp.com/track/book-ov-serpents>
+- [ ] Snuffed on Sight - Repeat Offender [FFO: Dumb shit for morons] <https://youtu.be/AcPMWRtOBaE>
+- [ ] Sorcerer - Morning Star (Sweden, 2023) <https://www.youtube.com/watch?v=5dJUTNkeYMo>
+- [ ] Soulskinner - Night [Greece, 2020][FFO: Gorement, Septic Flesh, Ghastly] <https://xtreemmusic.bandcamp.com/track/night>
+- [ ] Sovereign Darkness - Existential Possibilities <https://youtu.be/p-ceBpfSJR0>
+- [ ] Species - Parasite (Poland, 2022) (FFO: Coroner, Vektor, Watchtower) <https://species1.bandcamp.com/album/to-find-deliverance?t=2>
+- [ ] Spectral Voice - Craving Final Impasse (USA, 2023) <https://darkdescentrecords.bandcamp.com/track/spectral-voice-craving-final-impasse>
+- [ ] Spectral Wound - Frigid and Spellbound (Canada, 2021) <https://youtu.be/4x1_rxzMwxo>
+- [ ] Speedtrap - Redemption Of Might (Finland, 2013) [FFO: Ranger, Speedwolf, Enforcer] <https://www.youtube.com/watch?v=ZtuHHfmPkoU>
+- [ ] Spiral Staircase - Visions Shifting Form (2022 USBM - FFO: Triangulum, Sanguine Relic, french/finnish inspirations) <https://spiralstaircase1.bandcamp.com/track/visions-shifting-form>
+- [ ] Squealer - Girl (1984) <https://www.youtube.com/watch?v=EjlkAuoX-vs>
+- [ ] Steel Bearing Hand - Per Tenebras Ad Lucem <https://youtu.be/BgzHSszB3P4>
+- [ ] Stormwitch - Warlord (Germany, 1984) <https://youtu.be/hSOfMDfJGXE>
+- [ ] Stortregn - Xeno Chaos [Switzerland 2023] [FFO: technical black/death, First Fragment] <https://stortregn.bandcamp.com/track/xeno-chaos>
+- [ ] Straw Dogs - Skull Garnish <http://youtube.com/watch?v=CGPl-7KWNqU>
+- [ ] Stray Gods - Black Horses [2022, Greece, Heavy/Power, FFO: Iron Maiden, Bruce Dickinson] <https://straygods666.bandcamp.com/track/black-horses>
+- [ ] Svartkonst - Endless Dark (Sweden, 2023) <https://svartkonst666.bandcamp.com/track/endless-dark>
+- [ ] Sól án varma - Afbrigði V [black/doom, Iceland, 2023. FFO: Misþyrming, Árstíðir Lífsins, Sinmara] <https://solanvarma.bandcamp.com/track/afbrig-i-v>
+- [ ] Taake - Over Bjoergvin Graater Himmerik 4 <https://youtu.be/CimCnMrJWAU?si=Sst_7LlDBebvmhpY>
+- [ ] TANKIST - The Gulag Archipelago [Official Animated Music Video] 2023 <https://youtube.com/watch?v=4NR08DUOvaU&feature=share8>
+- [ ] Temple of Dread - Beyond Acheron <https://testimonyrecords.bandcamp.com/track/beyond-acheron>
+- [ ] Tenant - French Quarter [FFO: Thou, Weedeater, Bellrope, Palehorse] <https://tenantsludge.bandcamp.com/track/french-quarter-2>
+- [ ] Tenet - Being and Nothingness <https://www.youtube.com/watch?v=_PEqsUjsS_o&list=PLxrNkpO0NDlt04VoDfxZNrC5ojezO12hG&index=1>
+- [ ] Terrifier - Trial by Combat (Canada, 2023) <https://youtu.be/7FIE_F7ndPs>
+- [ ] TerroRaze - Corpo Ration (South Africa, 2023) <https://www.youtube.com/watch?v=xabQPLo3vis>
+- [ ] Thantifaxath - Mind of the Sun [avantgarde black, Canada, 2023. FFO: Dodecahedron, Deathspell Omega, Imperial Triumphant] <https://www.youtube.com/watch?v=6U4Ad8EyE1U>
+- [ ] The FOG - Crawling Doom (Germany, 2016) <https://avenger.bandcamp.com/track/crawling-doom>
+- [ ] The Lousy - Dogs of War (FFO Death Side, Warthog, Sacrilege) <https://thelousy.bandcamp.com/track/dogs-of-war>
+- [ ] Thorium - Across the Nations (2023) <https://youtu.be/WITWBmO1r9M>
+- [ ] Thra - Blistering Eternity <https://youtube.com/watch?v=mvjGZtBtIOo>
+- [ ] Thy Catafalque - 'Testen túl' (2023 - third single) <https://www.youtube.com/watch?v=HguSou2z6pE>
+- [ ] Timeghoul - Rain Wound (USA, 1992) <https://www.youtube.com/watch?v=f9pROgk3J3A>
+- [ ] Toadliquor - Gnaw <https://www.youtube.com/watch?v=BsPorTyaI8c>
+- [ ] Tokyo Blade - If Heaven Is Hell [England, 1984][FFO: Grim Reaper, Angel Witch, Saxon] <https://www.youtube.com/watch?v=-6nrwJpbGkc>
+- [ ] Tomb - Black Altar of Sathanas [Malaysia, 2023] (FFO: Nebiras, Mystifier, Samael) <https://youtu.be/r7uthhAQy9w>
+- [ ] Tomb Mold - Flesh As Armour [death, Canada, 2023. FFO: (Blood) Incantation, Ulthar, Dream Unending] <https://listen.20buckspin.com/track/flesh-as-armour>
+- [ ] Tombstalker - Age of Darkness [EP] 2023 Kentucky, FFO: Bolt Thrower <https://www.youtube.com/watch?v=zxlVEN8iQXo>
+- [ ] Torche - It Never Began [FL, USA - 2022] <https://torche.bandcamp.com/track/it-never-began>
+- [ ] Tormentor - Apocalypse [Hungary, 1989] <https://www.youtube.com/watch?v=-zN4Fyzn_Rk>
+- [ ] Torrefy - Arbor Requiem (FFO: Toxic Holocaust, Skeletonwitch) <https://youtu.be/7xvBzrTtLTA>
+- [ ] Torture Rack - Decrepit Funeral Home (USA, 2023) <https://www.youtube.com/watch?v=KT02GLNZyLw>
+- [ ] Totale Vernichtung - Massengrablied (Austria, 2014) <https://youtu.be/iIuiXltY9dc>
+- [ ] Tragic Death - Gloaming (Blackened Death Metal, 2019) <https://youtu.be/Dak8uNI3srY>
+- [ ] Tribal Gaze - Worthless Offering (2022) <https://tribalgaze-maggotstomp.bandcamp.com/track/worthless-offering>
+- [ ] Tribulation - Here Be Dragons <https://www.youtube.com/watch?v=vBlG1ANgPK0>
+- [ ] Turbo - Kawaleria Szatana cz.II <https://www.youtube.com/watch?v=53Fsv-UJXfQ>
+- [ ] Tyrant - Fall Into The Hands of Evil [1985 USA] <https://youtu.be/qISBHmJ7Fnc>
+- [ ] Tzompantli - Ohtlatocopailcahualuztli (USA, 2022) <https://youtu.be/zCfYvk4BeAQ>
+- [ ] Tírad Dûr - Primeval Night (USA, 2022) <https://youtu.be/gPk5RW3KRyI>
+- [ ] Undrask - Heart of the Abyss (feat. Jeff Loomis) [US, 2023] <https://undrask.bandcamp.com/track/heart-of-the-abyss-feat-jeff-loomis>
+- [ ] Unpure - Small Crooked Bones [2023] <https://invictusproductions666.bandcamp.com/track/small-crooked-bones>
+- [ ] Uthullun - Down Rivers of Spilled Blood [IL, USA - 2020] (FFO: Ulthar, Hræ) <https://uthullun.bandcamp.com/track/down-rivers-of-spilled-blood>
+- [ ] Vengeance Rising - Before The Time <https://www.youtube.com/watch?v=vAg2t4f9oGo>
+- [ ] Venusberg Cardinal - Baphomet's Autumn (Canada/USA, 2023) <https://youtu.be/8F4i9GOpUHE>
+- [ ] Vephar - Darkness Particle [Poland, 2022, Female Fronted, FFO: Cannibal Corpse, Vader, Malevonent Creation] <https://www.youtube.com/watch?v=Gz0oTVd0aQs>
+- [ ] Veriluola - Anguished Soul Collective [Finland/USA, 2023][FFO: Varathron, Mortuary Drape, Archgoat] <https://veriluola.bandcamp.com/track/anguished-soul-collective>
+- [ ] Veriluola - Eternal Knights [Finland/USA, 2023][FFO: Mortuary Drape, Varathron, Dungeon Serpent] <https://veriluola.bandcamp.com/track/eternal-knights>
+- [ ] Vicious Rumors - "Abandoned" [U.S.; 1991](FFO: Exodus; Megadeth; etc.) <https://www.youtube.com/watch?v=FgZUXgoYM98>
+- [ ] Vicious Rumors - Towns on Fire [California, 1988][FFO: Liege Lord, Jag Panzer, Metal Church] <https://www.youtube.com/watch?v=HGvVugiKHhU>
+- [ ] Vile Apparition - Depravity Ordained [Brutal Death, 2019, Australia] <https://www.youtube.com/watch?v=KWYjeQzAkq4&pp=ygUidmlsZSBhcHBhcml0aW9uIGRlcHJhdml0eSBvcmRhaW5lZA%3D%3D>
+- [ ] Vile Haint - Rural Sorcery In Early America [USA, 2021; Primeval Well side-project] <https://vilehaint.bandcamp.com/track/rural-sorcery-in-early-america>
+- [ ] Vile Ritual - Chapel (2023, US) <https://sentientruin.bandcamp.com/track/chapel>
+- [ ] VOID - Voodoo (OFFICIAL MUSIC VIDEO) Thrash Metal <https://youtu.be/NyGsY3EmGIQ>
+- [ ] Void Slaughter - Rivers of Viscera <https://youtu.be/MpzkwmLwY4U>
+- [ ] Vomitory - All Heads Are Gonna Roll <https://youtu.be/u1f0GOCOA5Y>
+- [ ] Vomitory - Raped, Strangled, Sodomized, Dead [Death Metal, Sweden, 2023] <https://youtu.be/adj6ys1a4uI>
+- [ ] Vore - The Cruelest Construct (FFO Pyrexia, Skinless, Jungle Rot) <https://www.youtube.com/watch?v=iBQtadgy5Ok>
+- [ ] Véhémence - Epopée - par le sang versé (France, 2019) <https://youtu.be/6kyAZhEaTeo>
+- [ ] Wallowing - Cries of Estima (UK, 2023, FFO: Primitive Man but in space) <https://wallowingnoise.bandcamp.com/track/cries-of-estima>
+- [ ] Wallowing - II. Earthless (UK, 2019) FFO: Primitive Man, Indian, Lord Mantis, Coffinworm <https://youtu.be/1Hvp2aOpwP4>
+- [ ] Wayfarer - False Constellation [US, New Release] <https://youtu.be/WGCLU2ac6sg>
+- [ ] Weakling - Cut Their Grain And Place Fire Therein <https://youtu.be/7CSXC6Xj8A0>
+- [ ] Weald & Woe - “For Death & Glory” <https://youtu.be/cIjhaF7EAic>
+- [ ] Weapon (Weapon UK) - Set the Stage Alight [UK, 1981] (FFO: Tank, Angel Witch, Blitzkrieg) <https://www.youtube.com/watch?v=nNOUdQYvXIg&pp=ygUbd2VhcG9uIHNldCB0aGUgc3RhZ2UgYWxpZ2h0>
+- [ ] White Ward - False Light (2022, Post Black Metal FFO Deafheaven, Batushka, Wolves in the Throne Room, Saxophone) <https://youtu.be/UZzoBA-oQQE>
+- [ ] Whores. - I See You Are Also Wearing A Black T-Shirt <https://youtu.be/MgcSe12xdds?feature=shared>
+- [ ] Wierde - Thorp onsaro, I [black/folk, NL, 2023, ffo: 90s Enslaved, Isengard, Windir] <https://chronosdefied.bandcamp.com/track/thorp-onsaro-i>
+- [ ] Witchaven [Los Angeles] - Police State | Album: Blood Sacrifice (2014) <https://www.youtube.com/watch?v=BdHAs978TRQ>
+- [ ] Witchhammer - Degradation Process (R.A.D.) (Brazil, from "Warfare Noise II" split 1988) <https://youtu.be/_jRa2L7Ttnw>
+- [ ] Witchrist - Meditation for Sacrifice (Black/Death, New Zealand, 2012) <https://youtu.be/_XBiffeLTss>
+- [ ] Witchthroat Serpent - The Next Black Moon <https://youtu.be/H9npmZRmhfA>
+- [ ] Witte Wieven - Ontsponnen uit de diepte [atmoblack, The Netherlands, 2023. FFO: Wolves in the Throne Room, Myrkur, Alcest] <https://wittewieven.bandcamp.com/track/ontsponnen-uit-de-diepte>
+- [ ] Worm - Atrocious Punishment (Demo 1993) - Death Metal from Tokyo <https://youtube.com/watch?v=LjeBQVJwOLg&feature=share>
+- [ ] Wrath - Insane Society <https://youtu.be/YteBDyXPitM>
+- [ ] Wrathprayer - The Annunciation I:I (Vermis Precatus) (Chile, 2012. FFO: Grave Miasma, Teitanblood, Vasaeleth) <https://nuclearwarnowproductions.bandcamp.com/track/the-annunciation-i-i-vermis-precatus>
+- [ ] Wytch Hazel - A Thousand Years (UK, 2023; FFO: Pagan Altar, Tanith, 70s hard rock/metal) <https://wytchhazel.bandcamp.com/track/a-thousand-years>
+- [ ] Ysbrydnos - Exorcism by Knife <https://ysbrydnos.bandcamp.com/track/exorcism-by-knife>
+- [ ] Zemeth - DEADLY NOSTALGIA(Japan, 2023) [Melodic Death] [FFO: Imperial Circus Dead Decadence, Children of Bodom] <https://youtu.be/pFE1A0ZuC_c>
+- [x] Ὁπλίτης (Hoplites) - Τ​ρ​α​ῦ​μ​α [2023, second album this year, China - FFO: Serpent Column] <https://hoplites.bandcamp.com/track/--19>

@@ -1,0 +1,32 @@
+{% import "macros/macros.html" as macros %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% block title %}{{ config.title }}{% endblock title %}</title>
+  <link rel="stylesheet" href="{{ get_url(path="site.css") }}">
+  <link rel="icon" href="{{ get_url(path="favicon.png") }}">
+</head>
+<body>
+  <main>
+    {# <pre><code>
+      {{ __tera_context }}
+    </code></pre> #}
+    {{ macros::breadcrumb() }}
+    <hr>
+    <section class="section">
+      <div class="container">
+        {% block content %}{% endblock %}
+      </div>
+    </section>
+    {{ macros::updated() }}
+    <hr class="bottom">
+    {{ macros::toc() }}
+  </main>
+  <footer>
+    <p class="lil-guy">(∩ᄑ_ᄑ)</p>
+  </footer>
+</body>
+</html>

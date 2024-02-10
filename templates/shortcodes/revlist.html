@@ -1,0 +1,5 @@
+<ol reversed class="reversed">
+{% for line in body | split(pat="\n") %}
+<li>{{ line | markdown | safe }}
+{% endfor %}
+</ol>
