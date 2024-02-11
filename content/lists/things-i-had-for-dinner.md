@@ -1,7 +1,7 @@
 +++
 title = "Things I've Had For Dinner"
 [extra]
-updated = 2022-07-18T21:16:15Z
+updated = '2024-02-11T18:24:09Z'
 +++
 
 - Pizza (x2)
@@ -9,3 +9,5 @@ updated = 2022-07-18T21:16:15Z
 - Baked Potato
 - cup o' noodle (chicken)
 - cold can of chicken noodle soup
+- fish tacos
+- a big ass salad
