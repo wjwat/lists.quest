@@ -16,6 +16,7 @@
       {% set_global subsections = subsections | concat(with=get_section(path=p)) %}
     {% endfor %}
     {% for p in subsections | sort(attribute="path") %}
+      {% if p.extra.hidden %}{% continue %}{% endif %}
       {{ macros::toc_stub(p=p) }}
     {% endfor %}
   </details>
@@ -56,6 +57,7 @@
 
     {# List out any pages in the current section #}
     {% for page in p.pages | sort(attribute="path") %}
+      {% if page.extra.hidden %}{% continue %}{% endif %}
       <summary class="page{% if current_path == page.path %} active{% endif %}">
         <a href="{{page.permalink}}">{{page.slug}}</a>
       </summary>
