@@ -35,6 +35,13 @@ main {
   flex: 1 0 auto;
 }
 
+@media (any-pointer: coarse) {
+  a {
+    font-size: $font-size + 0.1rem;
+  }
+}
+
+
 ol {
   li {
     &::marker {
