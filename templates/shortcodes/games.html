@@ -1,0 +1,26 @@
+{#
+    Structure: System, Title, Comment, Link
+#}
+{% set response = load_data(path="data/games.csv") %}
+{% set systems = response.records | map(attribute="0") | unique  | sort %}
+{% for system in systems %}
+    <h2>{{system}}</h2>
+    <ul>
+    {% set filtered_games = response.records | filter(attribute="0", value=system) | sort(attribute="1") %}
+    {% for game_entry in filtered_games %}
+        {% set game = game_entry[1] %}
+        {% set comment = game_entry[2] %}
+        {% set link = game_entry[3] %}
+        <li>
+            {% if link != "" %}
+                <a href="{{link}}">{{game}}</a>
+            {% else %}
+                {{game}}
+            {% endif %}
+        {% if comment != "" %}
+            <ul><li>{{comment}}</li></ul>
+        {% endif %}
+        </li>
+    {% endfor %}
+    </ul>
+{% endfor %}
