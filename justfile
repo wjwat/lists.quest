@@ -26,6 +26,10 @@ deploy: content shreddit
     -just _display "Pushing to repo..."
     git push origin
 
+# Update a MD file's frontmatter
+updatefm file:
+     deno --allow-read --allow-write ./tools/update_frontmatter.js "{{file}}"
+
 @_display str:
     echo ""
     echo "=== {{str}}"
