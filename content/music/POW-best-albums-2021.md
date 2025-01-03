@@ -1,7 +1,9 @@
 +++
 title = "Passion of the Weiss's Best Albums of 2021"
+
 [extra]
-updated = 2022-06-25T00:30:34Z
+updated = "2025-01-02T05:27:34Z"
+date = "2022-12-21T04:21:11Z"
 +++
 
 {% revlist() %}

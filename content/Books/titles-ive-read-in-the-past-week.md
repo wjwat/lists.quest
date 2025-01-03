@@ -1,8 +1,10 @@
 +++
 title = "Titles I've Read In The Past Week"
+
 [extra]
-updated = '2024-02-11T16:20:06Z'
+updated = "2025-01-02T18:23:30Z"
 hidden = true
+date = "2024-02-11T16:20:06Z"
 +++
 
 * All Systems Red - Martha Wells

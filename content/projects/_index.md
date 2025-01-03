@@ -1,7 +1,9 @@
 +++
 title = "projects"
+
 [extra]
-updated = 2022-06-25T11:47:50Z
+updated = "2025-01-03T04:29:33Z"
+date = "2022-12-21T04:21:11Z"
 +++
 
 - sometimes i run

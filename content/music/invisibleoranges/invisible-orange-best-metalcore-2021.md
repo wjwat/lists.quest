@@ -1,7 +1,9 @@
 +++
 title = "20 Best Metalcore Albums of 2021"
+
 [extra]
-updated = 2022-06-05T20:46:45Z
+updated = "2025-01-02T18:24:17Z"
+date = "2022-12-21T04:21:11Z"
 +++
 
 {% revlist() %}

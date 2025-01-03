@@ -1,7 +1,9 @@
 +++
 title = "Top 25 Favorite Black Metal Albums"
+
 [extra]
-updated = "2023-10-23 11:15:30CST"
+updated = "2025-01-02T05:35:39Z"
+date = "2023-10-23T15:38:08Z"
 +++
 
 {% revlist() %}

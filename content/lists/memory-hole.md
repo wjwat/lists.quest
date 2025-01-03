@@ -1,7 +1,9 @@
 +++
 title = "Forgotten-ish"
+
 [extra]
-updated = '2024-02-09T21:39:33Z'
+updated = "2025-01-02T18:23:59Z"
+date = "2024-02-09T21:39:33Z"
 +++
 
 ## TV Shows

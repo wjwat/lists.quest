@@ -1,7 +1,9 @@
 +++
 title = "reddit/r/metal tabs i had open"
+
 [extra]
-updated = 2022-07-09T17:00:17Z
+updated = "2025-01-02T05:27:31Z"
+date = "2022-12-21T04:21:11Z"
 +++
 
 - [Altars - Perverse Entity [Australia, 2022]](https://altarsdeath.bandcamp.com/track/perverse-entity)

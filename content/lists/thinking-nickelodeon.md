@@ -1,7 +1,9 @@
 +++
 title = "Some Suggestions for Thinking and Creating with \"NICKELODEON ATTITUDE\"..."
+
 [extra]
-updated = 2022-06-03T14:58:10Z
+updated = "2025-01-02T18:24:05Z"
+date = "2022-12-21T04:21:11Z"
 +++
 
 # DO

@@ -1,7 +1,9 @@
 +++
 title = "Webcomics Linked To By KC Green (Gunshow)"
+
 [extra]
-updated = '2024-03-16T19:41:39Z'
+updated = "2025-01-02T18:23:56Z"
+date = "2024-03-16T19:41:39Z"
 +++
 
 - <http://qwantz.com/>

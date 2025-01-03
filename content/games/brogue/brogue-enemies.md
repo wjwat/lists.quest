@@ -1,7 +1,9 @@
 +++
 title = "Most hated Brogue enemies"
+
 [extra]
-updated = "2023-10-23 11:23:59CST"
+updated = "2025-01-02T05:25:52Z"
+date = "2024-02-03T22:08:25Z"
 +++
 
 One day I'll beat this goddamn game.

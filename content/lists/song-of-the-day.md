@@ -1,7 +1,9 @@
 +++
 title = "song of the day"
+
 [extra]
-updated = 2022-07-20T19:32:48Z
+updated = "2025-01-02T18:24:02Z"
+date = "2024-02-03T22:07:13Z"
 +++
 
 - **2022/06/17**: [Talk Talk - It's My Life (Live at Montreux 1986)](https://www.youtube.com/watch?v=Rbwz532EQw8)

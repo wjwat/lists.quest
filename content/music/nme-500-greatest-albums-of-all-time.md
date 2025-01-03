@@ -1,7 +1,9 @@
 +++
 title = "NME 500 Greatest Albums of All Time"
+
 [extra]
-updated = 2022-06-06T09:16:28Z
+updated = "2025-01-02T05:27:37Z"
+date = "2022-12-21T04:21:11Z"
 +++
 
 {% revlist() %}

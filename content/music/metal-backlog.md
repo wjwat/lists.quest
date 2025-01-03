@@ -1,7 +1,9 @@
 +++
 title = "Metal Backlog"
+
 [extra]
-updated = 2023-09-20T12:00:00Z
+updated = "2025-01-02T05:31:31Z"
+date = "2023-09-20T16:31:52Z"
 +++
 
 - [ ] Abatuar - Los Efectos de la Gangrena y Putrefacción (Black/Death, Panama, 2017) <https://youtu.be/Dbmah4oxCc0>

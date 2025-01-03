@@ -1,7 +1,9 @@
 +++
 title = "Friday Mixes"
+
 [extra]
-updated = '2024-05-25T15:38:03Z'
+updated = "2025-01-02T18:24:21Z"
+date = "2024-05-25T15:38:03Z"
 +++
 
 ## 2024-05-17
