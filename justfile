@@ -33,7 +33,7 @@ games:
     -git commit -m "content(auto): Updating data (games)"
 
 # Commit content & data, then push all commits to trigger a build
-deploy: content shreddit
+deploy: content shreddit games
     @just _display "Pushing to repo..."
     git push origin
 
