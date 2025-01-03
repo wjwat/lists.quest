@@ -44,7 +44,7 @@
   {% endif %}
 
   <details class="toc"{% if p.path in current_path %} open{% endif %}>
-  <summary class="section"> <a class="{{ section_class }}" href="{{ p.permalink }}">{{ p.title }}</a></summary>
+  <summary class="section"> <a class="{{ section_class }}" href="{{ p.permalink }}">{{ p.title | slugify }}</a></summary>
 
     {# Recurse and see if we have any nested sections to list out #}
     {# We're doing all this to sort our TOC by section title :( (AGAIN) #}
