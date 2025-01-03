@@ -93,11 +93,21 @@
 
 {# ########################################################################## #}
 
-{% macro updated() %}
+{% macro dates() %}
 {% if page.extra.updated %}
   {% set last_update = page.extra.updated %}
 {% elif section.extra.updated %}
   {% set last_update = section.extra.updated %}
+{% endif %}
+
+{% if page.extra.date %}
+  {% set created_date = page.extra.date %}
+{% elif section.extra.date %}
+  {% set created_date = section.extra.date %}
+{% endif %}
+
+{% if created_date %}
+  <p class="created">Created: {{ created_date }}</p>
 {% endif %}
 {% if last_update %}
   <p class="update">Last Updated: {{ last_update }}</p>
