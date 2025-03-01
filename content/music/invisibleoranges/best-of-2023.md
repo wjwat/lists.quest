@@ -1,12 +1,9 @@
 +++
 title = "Best of 2023"
 
-[extras]
-updated = "2024-02-04T18:14:49Z"
-
 [extra]
 date = "2024-02-04T18:14:49Z"
-updated = "2025-01-03T10:52:26Z"
+updated = "2025-03-01T05:37:49Z"
 +++
 
 # [Tom Morgan's Top Albums of 2023](https://www.invisibleoranges.com/best-of-2023-tom-morgan/)
