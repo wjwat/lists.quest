@@ -3,7 +3,7 @@ title = "Best of 2024"
 
 [extra]
 date = "2024-02-04T18:14:49Z"
-updated = "2025-03-01T05:37:41Z"
+updated = "2025-03-01T05:40:11Z"
 +++
 
 # [Ted Nubel's Top Albums of 2024](https://www.invisibleoranges.com/best-of-2024-ted-nubel/)
@@ -46,15 +46,15 @@ updated = "2025-03-01T05:37:41Z"
 [**Lander – Boreal Tactics (Wergild, USA)**](https://landercorp.bandcamp.com/album/boreal-tactics)
 [**Conifère – L'Imp​ô​t du Sang (Independent, Canada)**](https://conifere.bandcamp.com/album/limp-t-du-sang)
 [**Alcest – Les Chants de l'Aurore (Nuclear Blast, France)**](https://alcest.bandcamp.com/album/les-chants-de-laurore)
-[**Papangu – Lampi​ã​o Rei (Repose Records, Brazil) **](https://papangu.bandcamp.com/album/lampi-o-rei-3)
+[**Papangu – Lampi​ã​o Rei (Repose Records, Brazil)**](https://papangu.bandcamp.com/album/lampi-o-rei-3)
 [**JPEGMAFIA – I LAY DOWN MY LIFE FOR YOU (Independent, USA)**](https://jpegmafia.bandcamp.com/album/i-lay-down-my-life-for-you)
 [**Convulsing – Perdurance (Independent, Australia)**](https://convulsing.bandcamp.com/album/perdurance)
 [**Spectral Voice - Sparagmos (Dark Descent, USA)**](https://darkdescentrecords.bandcamp.com/album/sparagmos)
-[**Oranssi Pazuzu – Muuntautuja (Nuclear Blast, Finland) **](https://oranssipazuzu.bandcamp.com/album/muuntautuja)
-[**Chat Pile – Cool World (The Flenser, USA) **](https://chatpile.bandcamp.com/album/cool-world)
-[**Ripped to Shreds – Sanshi (Relapse Records, USA) **](https://rippedtoshredsdeathmetal.bandcamp.com/album/sanshi)
-[**Thou – Umbilical (Sacred Bones, USA) **](https://thou.bandcamp.com/album/umbilical)
-[**Colin Stetson – The Love it Took to Leave You (Invada, Canada) **](https://colinstetson.bandcamp.com/album/the-love-it-took-to-leave-you)
+[**Oranssi Pazuzu – Muuntautuja (Nuclear Blast, Finland)**](https://oranssipazuzu.bandcamp.com/album/muuntautuja)
+[**Chat Pile – Cool World (The Flenser, USA)**](https://chatpile.bandcamp.com/album/cool-world)
+[**Ripped to Shreds – Sanshi (Relapse Records, USA)**](https://rippedtoshredsdeathmetal.bandcamp.com/album/sanshi)
+[**Thou – Umbilical (Sacred Bones, USA)**](https://thou.bandcamp.com/album/umbilical)
+[**Colin Stetson – The Love it Took to Leave You (Invada, Canada)**](https://colinstetson.bandcamp.com/album/the-love-it-took-to-leave-you)
 {% end %}
 
 
@@ -72,15 +72,15 @@ updated = "2025-03-01T05:37:41Z"
 [**Trent Reznor, Atticus Ross and Boys Noize– Challengers OST [MIXED] (The Null Corporation, US)**](https://open.spotify.com/album/78DalAijc9cNlTIcEDbnBu?si=89ObztIdQrW1xTm370c1GQ)
 [**Thanatotherion – Alienation Manifesto (I, Voidhanger Records, US)**](https://thanatotherion.bandcamp.com/album/alienation-manifesto)
 [**Living Gate - Suffer As One (Relapse Records, US)**](https://livinggate.bandcamp.com/album/suffer-as-one)
-[**Sanguine Relic – Within the Fog of Fragmented Memory (Perverse Homage, US) **](https://perversehomage.bandcamp.com/album/within-the-fog-of-fragmented-memory)
-[**Poppy - Negative Spaces (Sumerian Records, US) **](https://iampoppy.bandcamp.com/album/negative-spaces)
+[**Sanguine Relic – Within the Fog of Fragmented Memory (Perverse Homage, US)**](https://perversehomage.bandcamp.com/album/within-the-fog-of-fragmented-memory)
+[**Poppy - Negative Spaces (Sumerian Records, US)**](https://iampoppy.bandcamp.com/album/negative-spaces)
 [**Thou - Umbilical (Sacred Bones, US)**](https://thou.bandcamp.com/album/umbilical)
-[**Necrot - Lifeless Birth (Tankcrimes, US) **](https://necrot.bandcamp.com/album/lifeless-birth)
-[**SLOWHOLE – SLOWHOLE (Self Released, US) **](https://slowhole.bandcamp.com/album/slowhole)
-[**Spider God – Possess the Devil (Repose Records, UK) **](https://www.invisibleoranges.com/spider-god-possess-the-devil/)
+[**Necrot - Lifeless Birth (Tankcrimes, US)**](https://necrot.bandcamp.com/album/lifeless-birth)
+[**SLOWHOLE – SLOWHOLE (Self Released, US)**](https://slowhole.bandcamp.com/album/slowhole)
+[**Spider God – Possess the Devil (Repose Records, UK)**](https://www.invisibleoranges.com/spider-god-possess-the-devil/)
 [**Paysage D’hiver – Die Berge (Kunsthall Produktionen, Switzerland)**](https://spider-god.bandcamp.com/album/possess-the-devil)
 [**Civerous – Maze Envy (20 Buck Spin, US)**](https://paysagedhiver.bandcamp.com/album/die-berge)
-[**Couch Slut – You Could Do It Tonight (Brutal Panda Records, US) **](https://20buckspin.bandcamp.com/album/maze-envy)
+[**Couch Slut – You Could Do It Tonight (Brutal Panda Records, US)**](https://20buckspin.bandcamp.com/album/maze-envy)
 {% end %}
 
 
@@ -124,15 +124,15 @@ updated = "2025-03-01T05:37:41Z"
 [**Huntsmen – The Dry Land (Prosthetic Records, United States)**](https://huntsmen.bandcamp.com/album/the-dry-land)
 [**Thou – Umbilical (Sacred Bones, United States)**](https://thou.bandcamp.com/album/umbilical)
 [**Fellowship – The Skies Above Eternity (Scarlet Records, United Kingdom)**](https://fellowshipmetal.bandcamp.com/album/the-skies-above-eternity)
-[**DOOL – The Shape of Fluidity (Prophecy Productions, Netherlands) **](https://dool.bandcamp.com/album/the-shape-of-fluidity)
-[**Blood Incantation – Absolute Elsewhere (Century Media, United States) **](https://bloodincantation.bandcamp.com/album/absolute-elsewhere)
-[**Caligula’s Horse – Charcoal Grace (Inside Out Music, Australia) **](https://insideoutmusic.bandcamp.com/album/charcoal-grace-deluxe-edition)
-[**Dawn Treader – Bloom & Decay (Liminal Dread Productions, United Kingdom) **](https://dawntreaderuk.bandcamp.com/album/bloom-decay)
-[**SPRINTS – Letter to Self (City Slang, Ireland) **](https://sprintsmusic.bandcamp.com/album/letter-to-self)
+[**DOOL – The Shape of Fluidity (Prophecy Productions, Netherlands)**](https://dool.bandcamp.com/album/the-shape-of-fluidity)
+[**Blood Incantation – Absolute Elsewhere (Century Media, United States)**](https://bloodincantation.bandcamp.com/album/absolute-elsewhere)
+[**Caligula’s Horse – Charcoal Grace (Inside Out Music, Australia)**](https://insideoutmusic.bandcamp.com/album/charcoal-grace-deluxe-edition)
+[**Dawn Treader – Bloom & Decay (Liminal Dread Productions, United Kingdom)**](https://dawntreaderuk.bandcamp.com/album/bloom-decay)
+[**SPRINTS – Letter to Self (City Slang, Ireland)**](https://sprintsmusic.bandcamp.com/album/letter-to-self)
 [**Opeth – The Last Will & Testament (Reigning Phoenix Music, Sweden)**](https://open.spotify.com/album/1f2Q8urIhVZiuPSiNLcQG6?si=WLpEb5HrStGx7lrQcTYB8g)
-[**Alcest – Les Chants De L’Aurore (Nuclear Blast, France) **](https://alcest.bandcamp.com/album/les-chants-de-laurore)
-[**Ihsahn – Ihsahn (Candlelight Records, Norway) **](https://open.spotify.com/album/78eWgdCbll6LBKZR696IBE?si=umY4uOCpQXidWfEEMoRwGQ)
-[**Hamferð – Men Guðs hond er sterk (Metal Blade Records, Denmark) **](https://hamferd.bandcamp.com/album/men-gu-s-hond-er-sterk)
+[**Alcest – Les Chants De L’Aurore (Nuclear Blast, France)**](https://alcest.bandcamp.com/album/les-chants-de-laurore)
+[**Ihsahn – Ihsahn (Candlelight Records, Norway)**](https://open.spotify.com/album/78eWgdCbll6LBKZR696IBE?si=umY4uOCpQXidWfEEMoRwGQ)
+[**Hamferð – Men Guðs hond er sterk (Metal Blade Records, Denmark)**](https://hamferd.bandcamp.com/album/men-gu-s-hond-er-sterk)
 {% end %}
 
 
@@ -150,14 +150,14 @@ updated = "2025-03-01T05:37:41Z"
 [**Undeath – More Insane (Prosthetic Records, USA)**](https://undeath.bandcamp.com/album/more-insane)
 [**Lord Dying – Clandestine Transcendence (MNRK Heavy, USA)**](https://lorddying.bandcamp.com/album/clandestine-transcendence)
 [**Take Offense – T.O.Tality (MNRK Heavy, USA)**](https://takeoffensezone.bandcamp.com/album/t-o-tality)
-[**Morgul Blade – Heavy Metal Wraiths (No Remorse, USA) **](https://morgulblade.bandcamp.com/album/heavy-metal-wraiths)
+[**Morgul Blade – Heavy Metal Wraiths (No Remorse, USA)**](https://morgulblade.bandcamp.com/album/heavy-metal-wraiths)
 [**Mamaleek - Vida Blue (The Flenser, USA)**](https://www.youtube.com/watch?v=nt7ixnGfvlc)
-[**NAILS – Every Bridge Burning (Nuclear Blast, USA) **](https://mamaleek.bandcamp.com/album/vida-blue)
+[**NAILS – Every Bridge Burning (Nuclear Blast, USA)**](https://mamaleek.bandcamp.com/album/vida-blue)
 [**Full of Hell - Coagulated Bliss (Relapse Records, USA)**](https://www.youtube.com/watch?v=4WKxBoC5OO8&ab_channel=NAILS)
 [**Hulder - Verses in Oath (20 Buck Spin, USA)**](https://fullofhell.bandcamp.com/album/coagulated-bliss)
 [**Spectral Wound - Songs of Blood and Mire (Profound Lore, Canada)**](https://20buckspin.bandcamp.com/album/verses-in-oath)
-[**Tribulation - Sub Rosa In Æternum (Century Media, Sweden) **](https://spectralwound.bandcamp.com/album/songs-of-blood-and-mire)
-[**Crypt Sermon - The Stygian Rose (Dark Descent, USA) **](https://centurymedia.bandcamp.com/album/sub-rosa-in-ternum-24-bit-hd-audio)
+[**Tribulation - Sub Rosa In Æternum (Century Media, Sweden)**](https://spectralwound.bandcamp.com/album/songs-of-blood-and-mire)
+[**Crypt Sermon - The Stygian Rose (Dark Descent, USA)**](https://centurymedia.bandcamp.com/album/sub-rosa-in-ternum-24-bit-hd-audio)
 [**Blood Incantation - Absolute Elsewhere (Century Media, USA)**](https://cryptsermon.bandcamp.com/album/the-stygian-rose)
 {% end %}
 
@@ -183,11 +183,11 @@ updated = "2025-03-01T05:37:41Z"
 [**Concrete Winds – Concrete Winds (Sepulchral Voice Records, Finland)**](https://concretewinds.bandcamp.com/album/concrete-winds)
 [**Mayhemic – Toba (Sepulchral Voice Records, Chile)**](https://mayhemic.bandcamp.com/album/toba)
 [**Crypt Sermon – The Stygian Rose (Dark Descent Records, USA)**](https://darkdescentrecords.bandcamp.com/album/the-stygian-rose)
-[**Savage Oath – Divine Battle (Postmortem Apocalypse, USA) **](https://savageoath.bandcamp.com/album/divine-battle)
-[**Writhen Hilt – Ancient Sword Cult (Jawbreaker Records, Germany) **](https://writhenhilt.bandcamp.com/album/ancient-sword-cult)
+[**Savage Oath – Divine Battle (Postmortem Apocalypse, USA)**](https://savageoath.bandcamp.com/album/divine-battle)
+[**Writhen Hilt – Ancient Sword Cult (Jawbreaker Records, Germany)**](https://writhenhilt.bandcamp.com/album/ancient-sword-cult)
 [**Dolmen Gate – Gateways of Eternity (No Remorse Records, Portugal)**](https://dolmengate.bandcamp.com/album/gateways-of-eternity-2)
 [**Tarot – Glimpse of the Dawn (Cruz del Sur Music, Australia)**](https://hcrtarot.bandcamp.com/album/glimpse-of-the-dawn)
-[**Grendel's Sÿster – Katabasis into the Abaton / Abstieg in die Traumkammer (Cruz del Sur Music, Germany) **](https://grendelssyster.bandcamp.com/album/katabasis-into-the-abaton-abstieg-in-die-traumkammer)
+[**Grendel's Sÿster – Katabasis into the Abaton / Abstieg in die Traumkammer (Cruz del Sur Music, Germany)**](https://grendelssyster.bandcamp.com/album/katabasis-into-the-abaton-abstieg-in-die-traumkammer)
 {% end %}
 
 
@@ -206,14 +206,14 @@ updated = "2025-03-01T05:37:41Z"
 [**Törnen – Under Korpens Visdom (Medieval Prophecy, Sweden)**](https://youtu.be/CvH8LqnUOu8?si=nJaMhtW16sjWyUst)
 [**Departure Chandelier - Satan Soldier of Fortune (Nuclear War Now!, USA/Canada)**](https://departurechandelier.bandcamp.com/album/satan-soldier-of-fortune)
 [**Reverorum Ib Malacht – malacht aMalka Maryam (Rubeus Obex, Sweden)**](https://malachtunlimited.bandcamp.com/album/malakt-amalka-maryam)
-[**Nächtlich – Exaltation of Evil (Final Agony, Canada) **](https://deathfullust.bandcamp.com/album/exaltation-of-evil)
+[**Nächtlich – Exaltation of Evil (Final Agony, Canada)**](https://deathfullust.bandcamp.com/album/exaltation-of-evil)
 [**Balwezo Westijiz - Tower of Famine (Profound Lore, Sweden)**](https://profoundlorerecords.bandcamp.com/album/tower-of-famine)
 [**The Hope Conspiracy – Tools of Oppression/Rule By Deception (Deathwish, USA)**](https://thehopeconspiracy.bandcamp.com/album/tools-of-oppression-rule-by-deception)
 [**Retsu - Retsu (Self-Released, UK)**](https://retsupunk.bandcamp.com/album/retsu-s-t-lp)
 [**Fír – De Stilte Van God (Tour De Garde, Netherlands)**](https://duivelskunst.bandcamp.com/album/-)
-[**Circle of Ouroborus – Ajattoman Uni (His Wounds, Finland) **](https://hiswounds.bandcamp.com/album/circle-of-ouroborus-ajattoman-uni)
-[**Prayer Position – Prayer Position (Poisonous Sorcery, USA) **](https://primitivepropaganda.bandcamp.com/album/prayer-position)
-[**Darkthrone – It Beckons Us All...... (Peaceville, Norway) **](https://peaceville.bandcamp.com/album/it-beckons-us-all)
+[**Circle of Ouroborus – Ajattoman Uni (His Wounds, Finland)**](https://hiswounds.bandcamp.com/album/circle-of-ouroborus-ajattoman-uni)
+[**Prayer Position – Prayer Position (Poisonous Sorcery, USA)**](https://primitivepropaganda.bandcamp.com/album/prayer-position)
+[**Darkthrone – It Beckons Us All...... (Peaceville, Norway)**](https://peaceville.bandcamp.com/album/it-beckons-us-all)
 {% end %}
 
 
@@ -274,13 +274,13 @@ updated = "2025-03-01T05:37:41Z"
 [**Shum – Pulzalo Dobok Tisztitjak Meg Az Eget (Self-Released, Hungary)**](https://varsas.bandcamp.com/album/pulz-l-dobok-tiszt-tj-k-meg-az-eget)
 [**Graven Lore – Graven Lore (Self-Released, USA)**](https://gravenlore.bandcamp.com/album/graven-lore)
 [**Concrete Winds – Concrete Winds (Sepulchral Voice Records, Finland)**](https://concretewinds.bandcamp.com/album/concrete-winds)
-[**Malignancy – …Discontinued (Willowtip Records, USA) **](https://malignancy.bandcamp.com/album/discontinued)
-[**Moisturizer – Dumb and Burnt Out Already? (Self-Released, USA) **](https://moisturizer.bandcamp.com/album/dumb-and-burnt-out-already)
-[**Effluence – Necrobiology (Putrefactive Recordings, USA) **](https://effluence666.bandcamp.com/album/necrobiology)
+[**Malignancy – …Discontinued (Willowtip Records, USA)**](https://malignancy.bandcamp.com/album/discontinued)
+[**Moisturizer – Dumb and Burnt Out Already? (Self-Released, USA)**](https://moisturizer.bandcamp.com/album/dumb-and-burnt-out-already)
+[**Effluence – Necrobiology (Putrefactive Recordings, USA)**](https://effluence666.bandcamp.com/album/necrobiology)
 [**Low Budget Splatter Gore – The Bloody Ape (Surrogate Records, USA)**](https://surrogaterec.bandcamp.com/album/the-bloody-ape)
 [**Hellir – Wheel of Ghosts (Self-Released, USA)**](https://hellir.bandcamp.com/album/wheel-of-ghosts)
 [**Tzompantli – Beating the Drums of Ancestral Force (20 Buck Spin, USA)**](https://20buckspin.bandcamp.com/album/beating-the-drums-of-ancestral-force)
-[**Mohler – Above All (Roxx Records, USA) **](https://mohlerbcr.bandcamp.com/album/above-all)
-[**Final Resting Place – Prelude to Extinction (Daze, USA) **](https://dazestyle.bandcamp.com/album/prelude-to-extinction)
-[**Glutted Swarm – …of Old (Self-Released, Canada) **](https://gluttedswarm.bandcamp.com/album/of-old)
+[**Mohler – Above All (Roxx Records, USA)**](https://mohlerbcr.bandcamp.com/album/above-all)
+[**Final Resting Place – Prelude to Extinction (Daze, USA)**](https://dazestyle.bandcamp.com/album/prelude-to-extinction)
+[**Glutted Swarm – …of Old (Self-Released, Canada)**](https://gluttedswarm.bandcamp.com/album/of-old)
 {% end %}
