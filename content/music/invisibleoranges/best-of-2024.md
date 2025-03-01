@@ -3,7 +3,7 @@ title = "Best of 2024"
 
 [extra]
 date = "2024-02-04T18:14:49Z"
-updated = "2025-03-01T05:40:11Z"
+updated = "2025-03-01T16:43:40Z"
 +++
 
 # [Ted Nubel's Top Albums of 2024](https://www.invisibleoranges.com/best-of-2024-ted-nubel/)
@@ -284,3 +284,39 @@ updated = "2025-03-01T05:40:11Z"
 [**Final Resting Place – Prelude to Extinction (Daze, USA)**](https://dazestyle.bandcamp.com/album/prelude-to-extinction)
 [**Glutted Swarm – …of Old (Self-Released, Canada)**](https://gluttedswarm.bandcamp.com/album/of-old)
 {% end %}
+
+---
+
+```javascript
+const title = document.querySelector('.article-hero__content > h1').innerText;
+const url = document.URL;
+
+const x = [];
+
+// I forget which one of the pages I had to use the .wp-block-list selector on
+// document.querySelectorAll('.wp-block-list > li').forEach(e => {
+document.querySelectorAll('ol[start="20"] > li').forEach(e => {
+  const href = e.querySelector('a').href;
+  x.push(`[**${e.innerText}**](${href})`);
+})
+
+const top_ten_links = Array.from(document.querySelectorAll('.wp-block-pubportal-listicle-item *> a'))
+  .filter(e => e.innerText.includes('here'))
+  .map(e => e.href);
+
+document.querySelectorAll('.listicle-item__title').forEach((e, i) => {
+  const t = [e.innerText, e.nextElementSibling.innerText].join(' ');
+
+  x.push(`[**${t}**](${top_ten_links[i]})`);
+})
+
+const out = `# [${title}](${url})
+
+{% revlist() %}
+${x.join('\n')}
+{% end %}
+
+`
+
+console.log(out);
+```
